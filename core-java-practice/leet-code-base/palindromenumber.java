@@ -25,7 +25,6 @@ public class palindromenumber {
         return x == revertedNumber || x == revertedNumber / 10;
     }
 
-    // 🔹 Sirf local run ke liye (LeetCode mein hata dena
     public static void main(String[] args) {
         int x = 12321;   // test input
         System.out.println(isPalindrome(x));
