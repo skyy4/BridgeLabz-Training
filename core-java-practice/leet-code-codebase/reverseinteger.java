@@ -1,4 +1,4 @@
-public class reverseinteger {
+public class Reverseinteger {
     public static int reverse(int x) {
         int num = Math.abs(x);  // Original number ka absolute value nikala
         

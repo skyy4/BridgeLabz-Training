@@ -1,4 +1,4 @@
- public class ispalindrome {
+ public class Ispalindrome {
 
     public static boolean ispalindrome(String s) {
 

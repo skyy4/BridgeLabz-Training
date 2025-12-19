@@ -1,4 +1,4 @@
-public class fibonaccinumber {
+public class Fibonaccinumber {
 
     public static int fib(int n) {
 
