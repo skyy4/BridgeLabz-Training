@@ -1,198 +1,169 @@
-# 🚀 BridgeLabs-Training
+# BridgeLabs Training – Core Java & Git Practice
 
-**Repository Link:** [https://github.com/skyy4/BridgeLabs-Training](https://github.com/skyy4/BridgeLabs-Training)
+**Repository:** https://github.com/skyy4/BridgeLabs-Training  
+
+This repository is a structured learning workspace created during my **BridgeLabs Training program**, focused on building a strong foundation in **Core Java, Git & GitHub, and logical problem-solving**.
+
+It documents hands-on practice, well-organized Java programs, and progressive learning across fundamental and control-flow concepts while following clean coding and version-control best practices.
 
 ---
 
-This repository serves as a **learning workspace for my BridgeLabs Training**, focused on building a strong foundation in **Git & GitHub, Core Java programming, and logical problem solving**.  
+## Repository Structure
 
-It documents my **hands-on practice**, code solutions, and structured code organization across various Java programming concepts.
+The repository is organized for clarity, scalability, and ease of navigation.
 
-## 📂 Folder Structure
-
-The repository is organized in a modular and clean way for easy navigation and understanding.
-
-```
 BridgeLabs-Training/
 │
 ├── core-java-practice/
 │   ├── gcr-codebase/
 │   │   └── programming-elements/
-│   │       ├── control-flow/          # Control flow programs
-│   │       └── [Basic Programs]       # Fundamental Java programs
+│   │       ├── control-flow/
+│   │       └── basic-programs/
 │   │
-│   ├── leet-code-codebase/            # LeetCode problem solutions
+│   ├── leet-code-codebase/
 │   │
-│   └── scenario-based/                # Scenario-based problems
+│   └── scenario-based/
 │
 └── README.md
-```
-
-## 🛠️ Learning Focus
-
-This repository covers:
-
-- **Git & GitHub fundamentals** - Version control and repository management
-- **Core Java basics** - Variables, data types, operators, and basic operations
-- **Control Flow concepts** - if-else, switch-case, loops, and conditional logic
-- **Problem-solving skills** - Logical thinking and algorithm implementation
-- **LeetCode challenges** - Practice with common programming problems
-
-## 📚 Core Java Programs
-
-### 🔹 Programming Elements (Basic Programs)
-
-Fundamental Java programs covering basic operations, calculations, and conversions:
-
-- ✅ Add Two Numbers
-- ✅ Area of Circle
-- ✅ Average of Three Numbers
-- ✅ Basic Calculator
-- ✅ Celsius to Fahrenheit Conversion
-- ✅ Division Solve
-- ✅ Double Operations
-- ✅ Find Age
-- ✅ Find Distance
-- ✅ Hand Shake
-- ✅ Height Conversion
-- ✅ Integer Operations
-- ✅ Kilometers to Miles Conversion
-- ✅ Pen Distribution
-- ✅ Perimeter of Rectangle
-- ✅ Power Calculation
-- ✅ Price Calculator
-- ✅ Printing Welcome
-- ✅ Profit Loss Calculation
-- ✅ Sam Average
-- ✅ Simple Interest
-- ✅ Square Perimeter
-- ✅ Triangle Area
-- ✅ University Discount
-- ✅ Volume of Cylinder
-- ✅ Volume of Earth
-
-📌 All programs are located in: `core-java-practice/gcr-codebase/programming-elements/`
-
-### 🔹 Control Flow Programs
-
-Advanced programs implementing control structures and logical decision-making:
-
-#### Conditional Statements (if-else, switch-case)
-- ✅ Number Sign Check
-- ✅ Odd Even Check
-- ✅ Voting Eligibility
-- ✅ Largest of Three Numbers
-- ✅ Smallest of Three Numbers
-- ✅ Leap Year Check
-- ✅ Day of Week
-- ✅ Grade Calculator
-- ✅ Employee Bonus
-- ✅ Friends Check
-- ✅ Spring Season
-- ✅ BMI Calculator
-- ✅ Divisible by 5
-
-#### Loops (for, while, do-while)
-- ✅ Count Down
-- ✅ Multiplication Table
-- ✅ Factorial Number (Multiple approaches)
-- ✅ Factors (Multiple approaches)
-- ✅ Greatest Factor (Multiple approaches)
-- ✅ Power Number (Multiple approaches)
-- ✅ Multiples (Multiple approaches)
-- ✅ Natural Number Sum (Multiple approaches)
-- ✅ FizzBuzz (Multiple approaches)
-- ✅ Sum Until Zero
-- ✅ Sum Break
-- ✅ Rocket Launch Countdown
-
-#### Advanced Logic
-- ✅ Armstrong Number
-- ✅ Prime Number Check
-- ✅ Digit Count
-- ✅ Abundant Number
-- ✅ Harshad Number
-- ✅ Calculator
-
-📌 All Control Flow programs are located in: `core-java-practice/gcr-codebase/programming-elements/control-flow/`
-
-## 💡 LeetCode Solutions
-
-Practice solutions for common LeetCode problems to strengthen problem-solving skills:
-
-- ✅ Armstrong Number
-- ✅ Fibonacci Number
-- ✅ Is Palindrome
-- ✅ Palindrome Number
-- ✅ Reverse Integer
-
-📌 All LeetCode solutions are available in: `core-java-practice/leet-code-codebase/`
-
-## 🎯 Learning Outcomes
-
-Through this repository, I've gained:
-
-- ✅ Strong foundation in **Git & GitHub** version control
-- ✅ Clear understanding of **branch-based workflows**
-- ✅ Improved **Core Java fundamentals** and syntax
-- ✅ Hands-on practice with **Control Flow statements**
-- ✅ Better **logic building & problem-solving skills**
-- ✅ Clean and professional **code organization**
-- ✅ Experience with **algorithmic thinking**
-- ✅ Practice with **mathematical computations** and conversions
-
-## 🛠️ Technologies Used
-
-- **Java** - Core programming language
-- **Git & GitHub** - Version control and code hosting
-- **IDE** - Development environment for Java programming
-
-## 📖 How to Use This Repository
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/skyy4/BridgeLabs-Training.git
-   cd BridgeLabs-Training
-   ```
-
-2. **Navigate to specific program:**
-   - Basic programs: `core-java-practice/gcr-codebase/programming-elements/`
-   - Control flow: `core-java-practice/gcr-codebase/programming-elements/control-flow/`
-   - LeetCode: `core-java-practice/leet-code-codebase/`
-
-3. **Compile and run Java files:**
-   ```bash
-   javac Filename.java
-   java Filename
-   ```
-
-## 🔗 Repository Links
-
-- **GitHub Repository:** [https://github.com/skyy4/BridgeLabs-Training](https://github.com/skyy4/BridgeLabs-Training)
-- **Main Branch:** Contains organized code structure
-- **Documentation:** All programs are well-commented and documented
 
 ---
 
-## 👨‍💻 Author
+## Learning Focus
 
-**Shashikumar Yadav**  
-BridgeLabs Trainee | Java Developer  
+This repository covers the following core areas:
 
-Learning Core Java, Data Structures & Algorithms, and Software Development  
-
-🔗 **GitHub:** [https://github.com/skyy4](https://github.com/skyy4)
-
----
-
-## ☕ Keep Learning
-
-> **Consistency + Practice = Growth** 🚀  
-
-This repository will continue to evolve as I progress further in my BridgeLabs journey.
-
-**Keep Learning & Keep Building!**
+- Git & GitHub fundamentals (branching, commits, repository structure)
+- Core Java programming concepts
+- Control flow using conditional statements and loops
+- Logical problem-solving and algorithmic thinking
+- Practice with commonly asked coding problems (LeetCode-style)
 
 ---
 
-⭐ If you find this repository helpful, please give it a star!
+## Core Java Programs
+
+### Programming Elements (Basics)
+
+Fundamental Java programs covering arithmetic operations, conversions, and basic computations:
+
+- Add Two Numbers  
+- Area of Circle  
+- Average of Numbers  
+- Basic Calculator  
+- Celsius to Fahrenheit Conversion  
+- Division and Remainder  
+- Distance and Height Conversion  
+- Handshake Problem  
+- Integer and Double Operations  
+- Kilometer to Mile Conversion  
+- Profit and Loss Calculation  
+- Simple Interest  
+- Triangle Area  
+- Volume of Cylinder  
+- Volume of Earth  
+- Other foundational programs  
+
+**Location:**  
+`core-java-practice/gcr-codebase/programming-elements/`
+
+---
+
+### Control Flow Programs
+
+Programs focused on decision-making and iterative logic.
+
+#### Conditional Statements
+- Odd / Even Check  
+- Leap Year  
+- Voting Eligibility  
+- Largest and Smallest of Numbers  
+- Day of Week  
+- Grade Calculator  
+- Employee Bonus  
+- BMI Calculator  
+- Divisibility Checks  
+
+#### Loops
+- Multiplication Table  
+- Factorial (multiple approaches)  
+- Factors and Greatest Factor  
+- Power Calculation  
+- Natural Number Sum  
+- FizzBuzz  
+- Countdown Programs  
+
+#### Logical Problems
+- Armstrong Number  
+- Prime Number Check  
+- Digit Count  
+- Harshad Number  
+- Abundant Number  
+- Calculator Implementation  
+
+**Location:**  
+`core-java-practice/gcr-codebase/programming-elements/control-flow/`
+
+---
+
+## LeetCode Practice
+
+Solutions to commonly asked problems to strengthen problem-solving skills:
+
+- Armstrong Number  
+- Fibonacci Number  
+- Palindrome Number  
+- Reverse Integer  
+
+**Location:**  
+`core-java-practice/leet-code-codebase/`
+
+---
+
+## Key Learnings & Outcomes
+
+Through this repository, I have developed:
+
+- Strong understanding of Git & GitHub workflows  
+- Experience with branch-based development  
+- Solid fundamentals in Core Java  
+- Confidence in control flow and looping constructs  
+- Improved logical thinking and algorithm design  
+- Clean, readable, and maintainable code organization  
+
+---
+
+## Technologies Used
+
+- Java  
+- Git & GitHub  
+- Eclipse / VS Code  
+
+---
+
+## Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/skyy4/BridgeLabs-Training.git
+cd BridgeLabs-Training
+
+Compile and run a Java program:
+javac FileName.java
+java FileName
+
+Author
+
+Shashikumar Yadav
+BridgeLabs Trainee | Aspiring Java Developer
+
+Currently learning Core Java, Data Structures & Algorithms, and Software Development fundamentals.
+
+GitHub: https://github.com/skyy4
+
+⸻
+
+Notes
+
+This repository is actively maintained and will continue to evolve as part of my learning journey at BridgeLabs.
+Feedback, suggestions, and best-practice recommendations are welcome.
