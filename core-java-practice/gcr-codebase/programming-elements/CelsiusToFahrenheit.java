@@ -1,5 +1,5 @@
 
-public class Celsius2Fahrenheit {
+public class CelsiusToFahrenheit {
     public static double c2f(double c) {
         return (c * 9/5) + 32;
     }
