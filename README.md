@@ -22,6 +22,8 @@ BridgeLabz-Training/
 |   |   +-- programming-elements/
 |   |   |
 |   |   +-- control-flow/
+|   |   |
+|   |   +-- arrays/
 |   |
 |   +-- leet-code-codebase/
 |   |
@@ -29,6 +31,12 @@ BridgeLabz-Training/
 |
 +-- README.md
 ```
+
+## 📅 Week 1 – Foundation & Fundamentals: Git, Java Basics, Control Flow & Arrays
+
+**[16-20 December]**
+
+---
 
 ## Day 1 – 16 December
 
@@ -56,7 +64,7 @@ Solved basic leetcode problems to improve logic and problem-solving skills:
 - Reverse Integer  
 - Is Palindrome  
 
-All leetcode problem solutions are available inside the leet-code-codebase folder.
+> 📁 *All leetcode problem solutions are available inside the* `leet-code-codebase` *folder.*
 
 ## Day 2 – 17 December
 
@@ -116,7 +124,7 @@ Continued practicing with additional Java programs focusing on advanced operatio
 - Logical expressions  
 - Writing structured and optimized code  
 
-All  basic programs are available inside gcr-codebase/programming-elements.
+> 📁 *All basic programs are available inside* `gcr-codebase/programming-elements`*.*
 
 ## Day 4 – 19 December
 
@@ -161,8 +169,51 @@ Practiced and implemented **Control Flow programs** including:
 - Harshad Number
 - Calculator
 
-All Control Flow programs are available inside gcr-codebase/programming-elements/control-flow.
+> 📁 *All Control Flow programs are available inside* `gcr-codebase/control-flow`*.*
 
+## Day 5 – 20 December
+
+### Core Java – Arrays
+
+Practiced and implemented **Array-based programs** covering fundamental array operations and problem-solving:
+
+**One-Dimensional Arrays:**
+- BMI Array
+- Factors Array
+- FizzBuzz Array
+- Friends Array
+- Mean Height Calculation
+- Multiplication Table Array
+- Multiplication Table Range
+- Number Check Array
+- Odd Even Array
+- Reverse Number Array
+- Store Sum Array
+- Student Grade Array
+- Vote Check Array
+- Zara Bonus Calculation
+
+**Two-Dimensional Arrays (Matrices):**
+- BMI Matrix
+- Copy 2D to 1D Array
+- Student Grade Matrix
+
+**Advanced Array Operations:**
+- Digit Frequency
+- Digit Maximum (Multiple approaches)
+
+> 📁 *All Array programs are available inside* `gcr-codebase/arrays`*.*
+
+### Core Java – Scenario-Based Problems
+
+Solved real-world scenario-based problems to apply Java concepts in practical contexts:
+
+- **BMI Tracker** – Track and calculate BMI for multiple individuals
+- **Coffee Counter** – Manage coffee consumption tracking
+
+> 📁 *All scenario-based solutions are available inside the* `scenario-based` *folder.*
+
+---
 
 ## Repository
 
