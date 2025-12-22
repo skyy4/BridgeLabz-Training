@@ -1,5 +1,5 @@
 
-public class Armstrongnum {
+public class ArmstrongNum {
 
     // Number ke digits count karne ke liye
     public static int length(int N) {
