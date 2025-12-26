@@ -1,0 +1,359 @@
+# BridgeLabz-Training
+
+---
+
+This repository serves as a **learning workspace for my BridgeLabz Training**.  
+
+It documents my **day-wise learning progress**, hands-on practice, and structured code organization.
+
+## Folder Structure
+
+The repository is organized in a modular way.  
+
+Currently, all foundational Core Java work resides in the **core-java-practice** directory.
+
+```
+BridgeLabz-Training/
+|
++-- core-java-practice/(Branch & Folder Name)
+|   |
+|   +-- gcr-codebase/
+|   |   |
+|   |   +-- programming-elements/
+|   |   |
+|   |   +-- control-flow/
+|   |   |
+|   |   +-- arrays/
+|   |   |
+|   |   +-- strings/
+|   |   |
+|   |   +-- methods/
+|   |
+|   +-- leet-code-codebase/
+|   |
+|   +-- scenario-based/
+|
++-- README.md
+```
+
+## 📅 Week 1 – Foundation & Fundamentals: Git, Java Basics, Control Flow & Arrays
+
+**[16-20 December]**
+
+---
+
+## 16 December (Monday)
+
+### Git & GitHub
+
+- Created GitHub repository and linked it with VS Code  
+- Learned basic Git commands:
+  - `git add`
+  - `git commit`
+  - `git push`
+- Understood the purpose of **version control & repositories**
+- Worked with branches:
+  - `main`
+  - `core-java-practice`
+- Learned how commits work and how code is pushed to GitHub  
+- Understood repository structure and folder organization  
+
+### Core Java – LeetCode Practice
+
+Solved basic leetcode problems to improve logic and problem-solving skills:
+
+- Armstrong Number  
+- Fibonacci Number  
+- Palindrome Number  
+- Reverse Integer  
+- Is Palindrome  
+
+> 📁 *All leetcode problem solutions are available inside the* `leet-code-codebase` *folder.*  
+> 🔗 [Browse LeetCode solutions](https://github.com/skyy4/BridgeLabs-Training/tree/main/core-java-practice/leet-code-codebase)
+
+## 17 December (Tuesday)
+
+### Git & Git Bash
+
+- Practiced Git Bash commands  
+- Understood complete Git workflow  
+- Used `git status` to track new and modified files  
+- Used `git add`, `git commit`, and `git push` effectively  
+- Improved understanding of **branch-wise commits**  
+- Learned how to manage repository structure properly  
+
+### Core Java – Programming Elements
+
+Solved basic Java programs focused on arithmetic operations and formulas:
+
+- Add Two Numbers  
+- Area of Circle  
+- Average of Three Numbers  
+- Basic Calculator  
+- Celsius to Fahrenheit Conversion  
+- Division Solve  
+- Double Operations  
+- Find Age  
+- Find Distance  
+- Hand Shake  
+- Height Conversion  
+- Integer Operations  
+- Kilometers to Miles Conversion  
+- Pen Distribution  
+- Perimeter of Rectangle  
+- Power Calculation  
+- Price Calculator  
+- Printing Welcome  
+- Profit Loss Calculation  
+- Sam Average  
+- Simple Interest  
+- Square Perimeter  
+- Triangle Area  
+- University Discount  
+- Volume of Cylinder  
+- Volume of Earth  
+
+## 18 December (Wednesday)
+
+### Core Java – Programming Elements (Continued)
+
+Continued practicing with additional Java programs focusing on advanced operations and problem-solving:
+
+- User input handling  
+- Variables and data types  
+- Basic arithmetic operations  
+- Applying simple formulas  
+- Improving logical thinking  
+- Operator precedence  
+- Combining multiple operations  
+- Logical expressions  
+- Writing structured and optimized code  
+
+> 📁 *All basic programs are available inside* `gcr-codebase/programming-elements`*.*  
+> 🔗 [Browse Programming Elements](https://github.com/skyy4/BridgeLabs-Training/tree/main/core-java-practice/gcr-codebase/programming-elements)
+
+## 19 December (Thursday)
+
+### Core Java – Control Flow Statements
+
+Practiced and implemented **Control Flow programs** including:
+
+**Conditional Statements (if-else, switch-case):**
+- Number Sign Check
+- Odd Even Check
+- Voting Eligibility
+- Largest of Three Numbers
+- Smallest of Three Numbers
+- Leap Year Check
+- Day of Week
+- Grade Calculator
+- Employee Bonus
+- Friends Check
+- Spring Season
+- BMI Calculator
+- Divisible by 5
+
+**Loops (for, while, do-while):**
+- Count Down
+- Multiplication Table
+- Factorial Number (Multiple approaches)
+- Factors (Multiple approaches)
+- Greatest Factor (Multiple approaches)
+- Power Number (Multiple approaches)
+- Multiples (Multiple approaches)
+- Natural Number Sum (Multiple approaches)
+- FizzBuzz (Multiple approaches)
+- Sum Until Zero
+- Sum Break
+- Rocket Launch Countdown
+
+**Advanced Logic:**
+- Armstrong Number
+- Prime Number Check
+- Digit Count
+- Abundant Number
+- Harshad Number
+- Calculator
+
+> 📁 *All Control Flow programs are available inside* `gcr-codebase/control-flow`*.*  
+> 🔗 [Browse Control Flow programs](https://github.com/skyy4/BridgeLabs-Training/tree/main/core-java-practice/gcr-codebase/control-flow)
+
+## 20 December (Friday)
+
+### Core Java – Arrays
+
+Practiced and implemented **Array-based programs** covering fundamental array operations and problem-solving:
+
+**One-Dimensional Arrays:**
+- BMI Array
+- Factors Array
+- FizzBuzz Array
+- Friends Array
+- Mean Height Calculation
+- Multiplication Table Array
+- Multiplication Table Range
+- Number Check Array
+- Odd Even Array
+- Reverse Number Array
+- Store Sum Array
+- Student Grade Array
+- Vote Check Array
+- Zara Bonus Calculation
+
+**Two-Dimensional Arrays (Matrices):**
+- BMI Matrix
+- Copy 2D to 1D Array
+- Student Grade Matrix
+
+**Advanced Array Operations:**
+- Digit Frequency
+- Digit Maximum (Multiple approaches)
+
+> 📁 *All Array programs are available inside* `gcr-codebase/arrays`*.*  
+> 🔗 [Browse Array programs](https://github.com/skyy4/BridgeLabs-Training/tree/main/core-java-practice/gcr-codebase/arrays)
+
+### Core Java – Scenario-Based Problems
+
+Solved real-world scenario-based problems to apply Java concepts in practical contexts:
+
+- **BMI Tracker** – Track and calculate BMI for multiple individuals
+- **Coffee Counter** – Manage coffee consumption tracking
+
+> 📁 *All scenario-based solutions are available inside the* `scenario-based` *folder.*  
+> 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabs-Training/tree/main/core-java-practice/scenario-based)
+
+## 📅 Week 2 – Strings, Scenario-Based Systems & Methods
+
+**[22-24 December]**
+
+---
+
+## 22 December (Monday)
+
+### Core Java – Strings
+
+Solved string-focused problems covering common text processing patterns:
+
+- String creation and immutability basics  
+- Length checks, case conversion, trimming, and whitespace handling  
+- Character access and iteration patterns  
+- Substring extraction and slicing techniques  
+- Searching (indexOf/lastIndexOf), matching, and simple validation  
+- String comparison (equals/equalsIgnoreCase) and ordering  
+- Concatenation and efficient building with StringBuilder  
+- Split/join workflows and token handling  
+- Reversal, palindrome checks, and symmetry validation  
+- Frequency counts and de-duplication patterns  
+- Formatting, prefix/suffix checks, and cleanup routines  
+
+> 📁 *All String programs are available inside* `gcr-codebase/strings`*.*  
+> 🔗 [Browse String programs](https://github.com/skyy4/BridgeLabs-Training/tree/main/core-java-practice/gcr-codebase/strings)
+
+## 23 December (Tuesday)
+
+### Scenario-Based Questions
+
+- **Election Booth System**
+- **Metro Smart Card System**
+
+> 📁 *All scenario-based solutions are available inside the* `scenario-based` *folder.*  
+> 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabs-Training/tree/main/core-java-practice/scenario-based)
+
+## 24 December (Wednesday)
+
+### Core Java – Methods
+
+Practiced and implemented **Method-based programs** covering function creation, parameter passing, return types, and code reusability:
+
+**Method Fundamentals:**
+- Method declaration and definition
+- Parameter passing (primitive and reference types)
+- Return types and void methods
+- Method overloading
+- Code reusability and modularity
+
+**Practical Implementations:**
+- BMI Calculator
+- Simple Interest Calculator
+- Wind Chill Calculator
+- Length Converter
+- Unit Converter
+- Kilometers to Miles Conversion
+- Trigonometric Functions Calculator
+- Quadratic Equation Solver
+- Remainder and Quotient Finder
+- Number Analyzer and Checker
+- Number Properties and Utilities
+- Digit Analyzer and Utilities
+- Factor Operations and Utilities
+- Natural Number Sum
+- Min/Max of Three Numbers
+- Student Scorecard
+- Student Vote Checker
+- Friend Comparison
+- Football Team Height
+- Chocolate Distribution
+- Handshake Counter
+- Collinear Points
+- Line and Distance Calculations
+- Matrix Operations (Basic and Advanced)
+- Calendar Display
+- OTP Generator
+- Random Stats
+- Triangular Park Run
+- Spring Season Checker
+- Year Check
+- Zara Bonus Calculator
+- Sum Compare
+
+> 📁 *All Method programs are available inside* `gcr-codebase/methods`*.*  
+> 🔗 [Browse Method programs](https://github.com/skyy4/BridgeLabs-Training/tree/main/core-java-practice/gcr-codebase/methods)
+
+## 26 December (Friday)
+
+### Core Java – Strings (Extra Questions)
+
+Did the string few extra questions that were assigned.
+
+> 📁 *All String programs are available inside* `gcr-codebase/strings`*.*  
+> 🔗 [Browse String programs](https://github.com/skyy4/BridgeLabs-Training/tree/main/core-java-practice/gcr-codebase/strings)
+
+---
+
+## Repository
+
+**GitHub Repository:** [https://github.com/skyy4/BridgeLabs-Training](https://github.com/skyy4/BridgeLabs-Training)
+
+This repository contains all the code, programs, and solutions created during the BridgeLabz Training program. You can clone, explore, and contribute to this repository.
+
+
+## How to Clone and Run Locally
+
+### Prerequisites
+
+- Java Development Kit (JDK) installed on your system
+- Git installed on your system
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/skyy4/BridgeLabs-Training.git
+cd BridgeLabs-Training
+```
+
+### Running Java Programs
+
+Navigate to the specific program directory and compile the Java file:
+
+```bash
+# For basic programs
+cd core-java-practice/gcr-codebase/programming-elements/
+javac Filename.java
+java Filename
+```
+
+---
+
+
+
+---
