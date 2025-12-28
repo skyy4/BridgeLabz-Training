@@ -28,6 +28,8 @@ BridgeLabz-Training/
 |   |   +-- strings/
 |   |   |
 |   |   +-- methods/
+|   |   |
+|   |   +-- extra/
 |   |
 |   +-- leet-code-codebase/
 |   |
@@ -224,7 +226,7 @@ Solved real-world scenario-based problems to apply Java concepts in practical co
 
 ## 📅 Week 2 – Strings, Scenario-Based Systems & Methods
 
-**[22-24 December]**
+**[22-24, 26 December]**
 
 ---
 
@@ -311,12 +313,62 @@ Practiced and implemented **Method-based programs** covering function creation, 
 
 ## 26 December (Friday)
 
-### Core Java – Strings (Extra Questions)
+### Core Java – Strings
 
-Did the string few extra questions that were assigned.
+Continued practicing with **String-based programs** covering various string manipulation and processing techniques:
+
+- String creation and immutability basics  
+- Length checks, case conversion, trimming, and whitespace handling  
+- Character access and iteration patterns  
+- Substring extraction and slicing techniques  
+- Searching (indexOf/lastIndexOf), matching, and simple validation  
+- String comparison (equals/equalsIgnoreCase) and ordering  
+- Concatenation and efficient building with StringBuilder  
+- Split/join workflows and token handling  
+- Reversal, palindrome checks, and symmetry validation  
+- Frequency counts and de-duplication patterns  
+- Formatting, prefix/suffix checks, and cleanup routines  
 
 > 📁 *All String programs are available inside* `gcr-codebase/strings`*.*  
 > 🔗 [Browse String programs](https://github.com/skyy4/BridgeLabs-Training/tree/main/core-java-practice/gcr-codebase/strings)
+
+### Core Java – Extra Practice Questions
+
+Solved additional practice questions covering various Java concepts and algorithms:
+
+**Mathematical Operations:**
+- Calculator (Addition, Subtraction, Multiplication, Division)
+- GCD and LCM Calculation (Euclidean Algorithm)
+- Maximum of Three Numbers
+- Temperature Conversion (Fahrenheit to Celsius and vice versa)
+
+**Number Operations:**
+- Factorial using Recursion
+- Fibonacci Sequence Generation
+- Prime Number Check
+
+**String Operations:**
+- Palindrome Check
+
+**Advanced Topics:**
+- Guess Game (Number guessing with binary search approach)
+- Date Arithmetic Operations
+- Date Comparison
+- Date Formatting
+- Time Zones Handling
+
+> 📁 *All extra practice programs are available inside* `gcr-codebase/extra`*.*  
+> 🔗 [Browse Extra practice programs](https://github.com/skyy4/BridgeLabs-Training/tree/main/core-java-practice/gcr-codebase/extra)
+
+### Core Java – Scenario-Based Problems
+
+Solved real-world scenario-based problems to apply Java concepts in practical contexts:
+
+- **Bus Route** – Track total distance traveled by a passenger with multiple stops and exit confirmation
+- **Lucky Draw** – Implement a lucky draw system with winning conditions based on number divisibility
+
+> 📁 *All scenario-based solutions are available inside the* `scenario-based` *folder.*  
+> 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabs-Training/tree/main/core-java-practice/scenario-based)
 
 ---
 
