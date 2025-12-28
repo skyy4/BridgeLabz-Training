@@ -50,5 +50,7 @@ public class RandomStats {
         System.out.println("\n\nAverage value: " + results[0]);
         System.out.println("Minimum value: " + results[1]);
         System.out.println("Maximum value: " + results[2]);
+
+        
     }
 }
