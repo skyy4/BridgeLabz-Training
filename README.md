@@ -1,4 +1,4 @@
-# BridgeLabz-Training
+ # BridgeLabz-Training
 
 ---
 
@@ -366,6 +366,28 @@ Solved real-world scenario-based problems to apply Java concepts in practical co
 
 - **Bus Route** – Track total distance traveled by a passenger with multiple stops and exit confirmation
 - **Lucky Draw** – Implement a lucky draw system with winning conditions based on number divisibility
+
+> 📁 *All scenario-based solutions are available inside the* `scenario-based` *folder.*  
+> 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabs-Training/tree/main/core-java-practice/scenario-based)
+
+## 📅 Week 3 – Advanced Scenario-Based Problems
+
+**[29 December]**
+
+---
+
+## 29 December (Monday)
+
+### Core Java – Scenario-Based Problems
+
+Solved 6 real-world scenario-based problems to apply Java concepts in practical contexts:
+
+- **Employee Wage Computation** – Calculate employee wages based on attendance, work type (full-time/part-time), monthly calculations, and constraints on total working hours and days
+- **Line Comparison Computation** – Calculate line lengths using Cartesian coordinates and compare two lines using equals() and compareTo() methods
+- **DigiWatch** – Digital watch simulation that displays time from 00:00 to 13:00 using nested loops
+- **FitTrack** – Fitness tracker that calculates total and average push-ups for a week, handling rest days (0 push-ups)
+- **LibFine** – Library fine calculator that computes fines for overdue books based on return dates and due dates
+- **MovieBook** – Movie booking system with different movie types (regular, 3D, IMAX), seat types (gold, silver), and optional snacks
 
 > 📁 *All scenario-based solutions are available inside the* `scenario-based` *folder.*  
 > 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabs-Training/tree/main/core-java-practice/scenario-based)
