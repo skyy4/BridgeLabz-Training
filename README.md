@@ -10,7 +10,7 @@ It documents my **day-wise learning progress**, hands-on practice, and structure
 
 The repository is organized in a modular way.  
 
-Currently, all foundational Core Java work resides in the **core-java-practice** directory, and OOPs practice work resides in the **oops-practice** directory.
+Currently, all foundational Core Java work resides in the **core-java-practice** directory, OOPs practice work resides in the **oops-practice** directory, and review work resides in the **review** directory.
 
 ```
 BridgeLabz-Training/
@@ -41,6 +41,8 @@ BridgeLabz-Training/
 |   |   |
 |   |   +-- classes-and-object/
 |   |
++-- review (Branch & Folder Name)
+|   |
 +-- README.md
 ```
 
@@ -63,6 +65,8 @@ BridgeLabz-Training/
 - Worked with branches:
   - `main`
   - `core-java-practice`
+  - `oops-practice`
+  - `review`
 - Learned how commits work and how code is pushed to GitHub  
 - Understood repository structure and folder organization  
 
