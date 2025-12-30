@@ -10,7 +10,7 @@ It documents my **day-wise learning progress**, hands-on practice, and structure
 
 The repository is organized in a modular way.  
 
-Currently, all foundational Core Java work resides in the **core-java-practice** directory.
+Currently, all foundational Core Java work resides in the **core-java-practice** directory, and OOPs practice work resides in the **oops-practice** directory.
 
 ```
 BridgeLabz-Training/
@@ -35,6 +35,12 @@ BridgeLabz-Training/
 |   |
 |   +-- scenario-based/
 |
++-- oops-practice/(Branch & Folder Name)
+|   |
+|   +-- gcr-codebase/
+|   |   |
+|   |   +-- classes-and-object/
+|   |
 +-- README.md
 ```
 
@@ -370,9 +376,9 @@ Solved real-world scenario-based problems to apply Java concepts in practical co
 > 📁 *All scenario-based solutions are available inside the* `scenario-based` *folder.*  
 > 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabs-Training/tree/main/core-java-practice/scenario-based)
 
-## 📅 Week 3 – Advanced Scenario-Based Problems
+## 📅 Week 3 – Advanced Scenario-Based Problems & OOPs Introduction
 
-**[29 December]**
+**[29-30 December]**
 
 ---
 
@@ -391,6 +397,40 @@ Solved 6 real-world scenario-based problems to apply Java concepts in practical 
 
 > 📁 *All scenario-based solutions are available inside the* `scenario-based` *folder.*  
 > 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabs-Training/tree/main/core-java-practice/scenario-based)
+
+## 30 December (Tuesday)
+
+### Core Java – Scenario-Based Problems
+
+Solved a real-world scenario-based problem to apply Java concepts in practical contexts:
+
+- **Snake and Ladder** – Implemented a complete Snake and Ladder game simulation with single player and two-player modes, including dice rolling, position tracking, snake and ladder logic, exact winning position checks, and turn-based gameplay
+
+> 📁 *All scenario-based solutions are available inside the* `scenario-based` *folder.*  
+> 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabs-Training/tree/main/core-java-practice/scenario-based)
+
+### OOPs Practice – Classes and Objects
+
+Started learning **Object-Oriented Programming (OOPs)** concepts by practicing with classes and objects:
+
+**Class and Object Fundamentals:**
+- Understanding classes as blueprints for objects
+- Creating objects from classes
+- Instance variables and instance methods
+- Object initialization and state management
+- Encapsulation basics
+
+**Practical Implementations:**
+- **BankAccount** – Bank account management with balance operations
+- **Book** – Book information management system
+- **Item** – Item details and properties management
+- **MobilePhone** – Mobile phone specifications and operations
+- **MovieTicket** – Movie ticket booking and pricing system
+- **PalindromeChecker** – Palindrome validation using OOPs approach
+- **Student** – Student information and grade management system
+
+> 📁 *All OOPs practice programs are available inside* `oops-practice/gcr-codebase/classes-and-object`*.*  
+> 🔗 [Browse OOPs practice programs](https://github.com/skyy4/BridgeLabs-Training/tree/oops-practice/oops-practice/gcr-codebase/classes-and-object)
 
 ---
 
