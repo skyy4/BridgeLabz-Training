@@ -40,6 +40,8 @@ BridgeLabz-Training/
 |   +-- gcr-codebase/
 |   |   |
 |   |   +-- classes-and-object/
+|   |   |
+|   |   +-- constructors-variables-access/
 |   |
 +-- review (Branch & Folder Name)
 |   |
@@ -382,7 +384,7 @@ Solved real-world scenario-based problems to apply Java concepts in practical co
 
 ## 📅 Week 3 – Advanced Scenario-Based Problems & OOPs Introduction
 
-**[29-30 December]**
+**[29-31 December]**
 
 ---
 
@@ -435,6 +437,50 @@ Started learning **Object-Oriented Programming (OOPs)** concepts by practicing w
 
 > 📁 *All OOPs practice programs are available inside* `oops-practice/gcr-codebase/classes-and-object`*.*  
 > 🔗 [Browse OOPs practice programs](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/classes-and-obejct)
+
+## 31 December (Wednesday)
+
+### OOPs Practice – Constructors, Variables & Access Modifiers
+
+Continued learning **Object-Oriented Programming (OOPs)** concepts by practicing with constructors, variables, and access modifiers:
+
+**Constructor Fundamentals:**
+- Default constructors
+- Parameterized constructors
+- Copy constructors
+- Constructor chaining using `this()` keyword
+- Object initialization and state management
+
+**Access Modifiers:**
+- `public` – Accessible from anywhere
+- `protected` – Accessible within package and subclasses
+- `private` – Accessible only within the class
+- Access modifier usage with inheritance
+- Getters and setters for encapsulation
+
+**Static Variables and Methods:**
+- Static variables (class-level variables)
+- Static methods
+- Understanding class-level vs instance-level members
+- Accessing static members
+
+**Practical Implementations:**
+- **BankAccountAccess** – Bank account with access modifiers and inheritance
+- **BookAccess** – Book management with access modifiers and inheritance
+- **EmployeeAccess** – Employee management with access modifiers and inheritance
+- **StudentAccess** – Student management with access modifiers and inheritance
+- **Book** – Book class with default and parameterized constructors
+- **CircleConstructor** – Circle with constructor chaining
+- **HotelBooking** – Hotel booking with default, parameterized, and copy constructors
+- **Person** – Person class demonstrating copy constructor
+- **CarRental** – Car rental system with encapsulation
+- **LibBook** – Library book management with encapsulation
+- **Course** – Course management with static variables and methods
+- **Vehicle** – Vehicle registration with static variables and methods
+- **Product** – Product management with static counter
+
+> 📁 *All OOPs practice programs are available inside* `oops-practice/gcr-codebase/constructors-variables-access`*.*  
+> 🔗 [Browse OOPs practice programs](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructors-variables-access)
 
 ---
 
