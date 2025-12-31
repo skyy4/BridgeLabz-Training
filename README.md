@@ -81,7 +81,7 @@ Solved basic leetcode problems to improve logic and problem-solving skills:
 - Is Palindrome  
 
 > 📁 *All leetcode problem solutions are available inside the* `leet-code-codebase` *folder.*  
-> 🔗 [Browse LeetCode solutions](https://github.com/skyy4/BridgeLabs-Training/tree/main/core-java-practice/leet-code-codebase)
+> 🔗 [Browse LeetCode solutions](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
 
 ## 17 December (Tuesday)
 
@@ -142,7 +142,7 @@ Continued practicing with additional Java programs focusing on advanced operatio
 - Writing structured and optimized code  
 
 > 📁 *All basic programs are available inside* `gcr-codebase/programming-elements`*.*  
-> 🔗 [Browse Programming Elements](https://github.com/skyy4/BridgeLabs-Training/tree/main/core-java-practice/gcr-codebase/programming-elements)
+> 🔗 [Browse Programming Elements](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
 
 ## 19 December (Thursday)
 
@@ -188,7 +188,7 @@ Practiced and implemented **Control Flow programs** including:
 - Calculator
 
 > 📁 *All Control Flow programs are available inside* `gcr-codebase/control-flow`*.*  
-> 🔗 [Browse Control Flow programs](https://github.com/skyy4/BridgeLabs-Training/tree/main/core-java-practice/gcr-codebase/control-flow)
+> 🔗 [Browse Control Flow programs](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)
 
 ## 20 December (Friday)
 
@@ -222,7 +222,7 @@ Practiced and implemented **Array-based programs** covering fundamental array op
 - Digit Maximum (Multiple approaches)
 
 > 📁 *All Array programs are available inside* `gcr-codebase/arrays`*.*  
-> 🔗 [Browse Array programs](https://github.com/skyy4/BridgeLabs-Training/tree/main/core-java-practice/gcr-codebase/arrays)
+> 🔗 [Browse Array programs](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)
 
 ### Core Java – Scenario-Based Problems
 
@@ -232,7 +232,7 @@ Solved real-world scenario-based problems to apply Java concepts in practical co
 - **Coffee Counter** – Manage coffee consumption tracking
 
 > 📁 *All scenario-based solutions are available inside the* `scenario-based` *folder.*  
-> 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabs-Training/tree/main/core-java-practice/scenario-based)
+> 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
 
 ## 📅 Week 2 – Strings, Scenario-Based Systems & Methods
 
@@ -259,7 +259,7 @@ Solved string-focused problems covering common text processing patterns:
 - Formatting, prefix/suffix checks, and cleanup routines  
 
 > 📁 *All String programs are available inside* `gcr-codebase/strings`*.*  
-> 🔗 [Browse String programs](https://github.com/skyy4/BridgeLabs-Training/tree/main/core-java-practice/gcr-codebase/strings)
+> 🔗 [Browse String programs](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
 
 ## 23 December (Tuesday)
 
@@ -269,7 +269,7 @@ Solved string-focused problems covering common text processing patterns:
 - **Metro Smart Card System**
 
 > 📁 *All scenario-based solutions are available inside the* `scenario-based` *folder.*  
-> 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabs-Training/tree/main/core-java-practice/scenario-based)
+> 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
 
 ## 24 December (Wednesday)
 
@@ -319,7 +319,7 @@ Practiced and implemented **Method-based programs** covering function creation, 
 - Sum Compare
 
 > 📁 *All Method programs are available inside* `gcr-codebase/methods`*.*  
-> 🔗 [Browse Method programs](https://github.com/skyy4/BridgeLabs-Training/tree/main/core-java-practice/gcr-codebase/methods)
+> 🔗 [Browse Method programs](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
 
 ## 26 December (Friday)
 
@@ -340,7 +340,7 @@ Continued practicing with **String-based programs** covering various string mani
 - Formatting, prefix/suffix checks, and cleanup routines  
 
 > 📁 *All String programs are available inside* `gcr-codebase/strings`*.*  
-> 🔗 [Browse String programs](https://github.com/skyy4/BridgeLabs-Training/tree/main/core-java-practice/gcr-codebase/strings)
+> 🔗 [Browse String programs](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
 
 ### Core Java – Extra Practice Questions
 
@@ -368,7 +368,7 @@ Solved additional practice questions covering various Java concepts and algorith
 - Time Zones Handling
 
 > 📁 *All extra practice programs are available inside* `gcr-codebase/extra`*.*  
-> 🔗 [Browse Extra practice programs](https://github.com/skyy4/BridgeLabs-Training/tree/main/core-java-practice/gcr-codebase/extra)
+> 🔗 [Browse Extra practice programs](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extra)
 
 ### Core Java – Scenario-Based Problems
 
@@ -378,7 +378,7 @@ Solved real-world scenario-based problems to apply Java concepts in practical co
 - **Lucky Draw** – Implement a lucky draw system with winning conditions based on number divisibility
 
 > 📁 *All scenario-based solutions are available inside the* `scenario-based` *folder.*  
-> 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabs-Training/tree/main/core-java-practice/scenario-based)
+> 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
 
 ## 📅 Week 3 – Advanced Scenario-Based Problems & OOPs Introduction
 
@@ -400,7 +400,7 @@ Solved 6 real-world scenario-based problems to apply Java concepts in practical 
 - **MovieBook** – Movie booking system with different movie types (regular, 3D, IMAX), seat types (gold, silver), and optional snacks
 
 > 📁 *All scenario-based solutions are available inside the* `scenario-based` *folder.*  
-> 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabs-Training/tree/main/core-java-practice/scenario-based)
+> 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
 
 ## 30 December (Tuesday)
 
@@ -411,7 +411,7 @@ Solved a real-world scenario-based problem to apply Java concepts in practical c
 - **Snake and Ladder** – Implemented a complete Snake and Ladder game simulation with single player and two-player modes, including dice rolling, position tracking, snake and ladder logic, exact winning position checks, and turn-based gameplay
 
 > 📁 *All scenario-based solutions are available inside the* `scenario-based` *folder.*  
-> 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabs-Training/tree/main/core-java-practice/scenario-based)
+> 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
 
 ### OOPs Practice – Classes and Objects
 
@@ -434,7 +434,7 @@ Started learning **Object-Oriented Programming (OOPs)** concepts by practicing w
 - **Student** – Student information and grade management system
 
 > 📁 *All OOPs practice programs are available inside* `oops-practice/gcr-codebase/classes-and-object`*.*  
-> 🔗 [Browse OOPs practice programs](https://github.com/skyy4/BridgeLabs-Training/tree/oops-practice/oops-practice/gcr-codebase/classes-and-object)
+> 🔗 [Browse OOPs practice programs](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/Classes And Object)
 
 ---
 
