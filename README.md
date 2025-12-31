@@ -434,7 +434,7 @@ Started learning **Object-Oriented Programming (OOPs)** concepts by practicing w
 - **Student** – Student information and grade management system
 
 > 📁 *All OOPs practice programs are available inside* `oops-practice/gcr-codebase/classes-and-object`*.*  
-> 🔗 [Browse OOPs practice programs](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/Classes And Object)
+> 🔗 [Browse OOPs practice programs](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/classes-and-obejct)
 
 ---
 
