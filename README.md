@@ -42,6 +42,10 @@ BridgeLabz-Training/
 |   |   +-- classes-and-object/
 |   |   |
 |   |   +-- constructors-variables-access/
+|   |   |
+|   |   +-- static-this-final-instanceof/
+|   |
+|   +-- scenario-based/
 |   |
 +-- review (Branch & Folder Name)
 |   |
@@ -481,6 +485,41 @@ Continued learning **Object-Oriented Programming (OOPs)** concepts by practicing
 
 > 📁 *All OOPs practice programs are available inside* `oops-practice/gcr-codebase/constructors-variables-access`*.*  
 > 🔗 [Browse OOPs practice programs](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructors-variables-access)
+
+## 1 January (Thursday)
+
+### OOPs Practice – Static, This, Final & Instanceof & Scenario-Based Problem
+
+Continued learning **Object-Oriented Programming (OOPs)** concepts by practicing with static keywords, this reference, final modifiers, and instanceof operator:
+
+**Key Concepts:**
+- Understanding `static` keyword for class-level variables and methods
+- Using `this` reference to access instance variables and methods
+- Applying `final` modifier to create constants and immutable fields
+- Using `instanceof` operator for type checking and safe casting
+- Static variable initialization and shared state management
+- Static method access and utility functions
+- Instance counting with static variables
+
+**Practical Implementations:**
+- **LibraryBook** – Library book management with static library name and final ISBN
+- **CompanyEmployee** – Employee management system with static company name and employee counter
+- **CartProduct** – Shopping cart product with static discount and final product ID
+- **UniversityStudent** – Student information system with static university name and student counter
+- **RegisteredVehicle** – Vehicle registration system with static registration fee
+- **HospitalPatient** – Patient management system with static hospital name and patient counter
+
+> 📁 *All Static, This, Final & Instanceof programs are available inside* `oops-practice/gcr-codebase/static-this-final-instanceof`*.*  
+> 🔗 [Browse Static, This, Final & Instanceof programs](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/static-this-final-instanceof)
+
+### OOPs Practice – Scenario-Based Problems
+
+Solved a real-world scenario-based problem focusing on string manipulation and text processing:
+
+- **SentenceFormatter** – Paragraph formatting system that capitalizes the first letter of each sentence, counts words, finds the longest word, and replaces words in a paragraph
+
+> 📁 *All scenario-based solutions are available inside the* `oops-practice/scenario-based` *folder.*  
+> 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
 
 ---
 
