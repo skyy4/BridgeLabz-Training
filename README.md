@@ -544,6 +544,16 @@ Continued learning **Object-Oriented Programming (OOPs)** concepts by practicing
 > 📁 *All Object-Oriented Design materials are available inside* `oops-practice/gcr-codebase/object-oriented-design`*.*  
 > 🔗 [Browse Object-Oriented Design materials](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/object-oriented-design)
 
+### Core Java – Scenario-Based Problems
+
+Solved real-world scenario-based problems to apply Java concepts in practical contexts:
+
+- **Temperature Analyzer** – Analyzes temperature data for a week (7 days × 24 hours), calculates daily averages, and identifies the hottest and coldest days
+- **Student Score Analyzer** – Analyzes student scores by calculating average, highest, lowest scores, and displaying scores above the average
+
+> 📁 *All scenario-based solutions are available inside the* `core-java-practice/scenario-based` *folder.*  
+> 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+
 ---
 
 ## Repository
