@@ -44,6 +44,8 @@ BridgeLabz-Training/
 |   |   +-- constructors-variables-access/
 |   |   |
 |   |   +-- static-this-final-instanceof/
+|   |   |
+|   |   +-- object-oriented-design/
 |   |
 |   +-- scenario-based/
 |   |
@@ -388,7 +390,7 @@ Solved real-world scenario-based problems to apply Java concepts in practical co
 
 ## 📅 Week 3 – Advanced Scenario-Based Problems & OOPs Introduction
 
-**[29-31 December]**
+**[29-31 December, 1-2 January]**
 
 ---
 
@@ -520,6 +522,27 @@ Solved a real-world scenario-based problem focusing on string manipulation and t
 
 > 📁 *All scenario-based solutions are available inside the* `oops-practice/scenario-based` *folder.*  
 > 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
+## 2 January (Friday)
+
+### OOPs Practice – Object-Oriented Design
+
+Continued learning **Object-Oriented Programming (OOPs)** concepts by practicing with object-oriented design principles:
+
+**Key Concepts:**
+- Understanding object modeling and design patterns
+- Analyzing real-world problems and designing class structures
+- Creating UML-like representations of object relationships
+- Applying OOPs principles (encapsulation, abstraction, inheritance, polymorphism) in design
+- Problem decomposition and class responsibility assignment
+- Designing scalable and maintainable object-oriented solutions
+
+**Practical Work:**
+- **Object Modeling** – Studied object modeling concepts and design patterns
+- **Sample Problem** – Analyzed and designed solutions for sample problems using OOPs principles
+
+> 📁 *All Object-Oriented Design materials are available inside* `oops-practice/gcr-codebase/object-oriented-design`*.*  
+> 🔗 [Browse Object-Oriented Design materials](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/object-oriented-design)
 
 ---
 
