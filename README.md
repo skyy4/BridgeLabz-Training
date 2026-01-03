@@ -46,6 +46,8 @@ BridgeLabz-Training/
 |   |   +-- static-this-final-instanceof/
 |   |   |
 |   |   +-- object-oriented-design/
+|   |   |
+|   |   +-- inheritance-polymorphism/
 |   |
 |   +-- scenario-based/
 |   |
@@ -390,7 +392,7 @@ Solved real-world scenario-based problems to apply Java concepts in practical co
 
 ## 📅 Week 3 – Advanced Scenario-Based Problems & OOPs Introduction
 
-**[29-31 December, 1-2 January]**
+**[29-31 December, 1-3 January]**
 
 ---
 
@@ -550,6 +552,46 @@ Solved real-world scenario-based problems to apply Java concepts in practical co
 
 - **Temperature Analyzer** – Analyzes temperature data for a week (7 days × 24 hours), calculates daily averages, and identifies the hottest and coldest days
 - **Student Score Analyzer** – Analyzes student scores by calculating average, highest, lowest scores, and displaying scores above the average
+
+> 📁 *All scenario-based solutions are available inside the* `core-java-practice/scenario-based` *folder.*  
+> 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+
+## 3 January (Saturday)
+
+### OOPs Practice – Inheritance and Polymorphism
+
+Continued learning **Object-Oriented Programming (OOPs)** concepts by practicing with inheritance and polymorphism:
+
+**Key Concepts:**
+- Understanding inheritance – creating child classes that extend parent classes
+- Using `extends` keyword to establish inheritance relationships
+- Method overriding using `@Override` annotation
+- Understanding polymorphism – one interface, multiple implementations
+- Using `super` keyword to call parent class constructors and methods
+- Combining classes and interfaces in single files
+- Organizing related classes with base and derived classes
+
+**Practical Implementations:**
+- **Animal Inheritance Hierarchy** – Animal base class with Dog, Cat, and Bird subclasses demonstrating method overriding and polymorphism
+- **Employee Management** – BaseEmployee and Manager classes showing inheritance with additional attributes
+- **Vehicle Hierarchy** – VehicleBase and Car classes demonstrating constructor chaining with super
+- **Book and Author** – Book base class with Author subclass
+- **Device Management** – Device base class with Thermostat subclass
+- **Order Management System** – Multi-level inheritance with Order, ShippedOrder, and DeliveredOrder classes
+- **Bank Account System** – BankAccount base class with SavingsAccount subclass
+- **Person and Teacher** – Person base class with Teacher subclass
+- **Interface Implementation** – Worker interface with Chef class and PersonBase, demonstrating multiple inheritance through interfaces
+- **Vehicle with Interface** – Refuelable interface with PetrolVehicle class and VehicleMain base class
+
+> 📁 *All Inheritance and Polymorphism programs are available inside* `oops-practice/gcr-codebase/inheritance-polymorphism`*.*  
+> 🔗 [Browse Inheritance and Polymorphism programs](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance-polymorphism)
+
+### Core Java – Scenario-Based Problems
+
+Solved real-world scenario-based problems to apply Java concepts in practical contexts:
+
+- **LibrarySystem** – Library management system that displays books, searches for books by keyword, and handles book checkout operations with availability tracking
+- **EduQuiz** – Educational quiz system that calculates student scores, displays percentage, and determines pass/fail status based on correct answers
 
 > 📁 *All scenario-based solutions are available inside the* `core-java-practice/scenario-based` *folder.*  
 > 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
