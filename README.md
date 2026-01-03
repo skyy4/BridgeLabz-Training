@@ -592,6 +592,8 @@ Solved real-world scenario-based problems to apply Java concepts in practical co
 
 - **LibrarySystem** – Library management system that displays books, searches for books by keyword, and handles book checkout operations with availability tracking
 - **EduQuiz** – Educational quiz system that calculates student scores, displays percentage, and determines pass/fail status based on correct answers
+- **BankAccountManager** – Bank account management system with deposit, withdrawal, and balance checking operations, including validation for invalid amounts and insufficient balance
+- **MathUtility** – Utility class with static methods for mathematical operations including factorial calculation, prime number checking, GCD computation, and Fibonacci sequence generation
 
 > 📁 *All scenario-based solutions are available inside the* `oops-practice/scenario-based` *folder.*  
 > 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
