@@ -546,15 +546,15 @@ Continued learning **Object-Oriented Programming (OOPs)** concepts by practicing
 > 📁 *All Object-Oriented Design materials are available inside* `oops-practice/gcr-codebase/object-oriented-design`*.*  
 > 🔗 [Browse Object-Oriented Design materials](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/object-oriented-design)
 
-### Core Java – Scenario-Based Problems
+### OOPs Practice – Scenario-Based Problems
 
 Solved real-world scenario-based problems to apply Java concepts in practical contexts:
 
 - **Temperature Analyzer** – Analyzes temperature data for a week (7 days × 24 hours), calculates daily averages, and identifies the hottest and coldest days
 - **Student Score Analyzer** – Analyzes student scores by calculating average, highest, lowest scores, and displaying scores above the average
 
-> 📁 *All scenario-based solutions are available inside the* `core-java-practice/scenario-based` *folder.*  
-> 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+> 📁 *All scenario-based solutions are available inside the* `oops-practice/scenario-based` *folder.*  
+> 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
 
 ## 3 January (Saturday)
 
@@ -586,15 +586,15 @@ Continued learning **Object-Oriented Programming (OOPs)** concepts by practicing
 > 📁 *All Inheritance and Polymorphism programs are available inside* `oops-practice/gcr-codebase/inheritance-polymorphism`*.*  
 > 🔗 [Browse Inheritance and Polymorphism programs](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance-polymorphism)
 
-### Core Java – Scenario-Based Problems
+### OOPs Practice – Scenario-Based Problems
 
 Solved real-world scenario-based problems to apply Java concepts in practical contexts:
 
 - **LibrarySystem** – Library management system that displays books, searches for books by keyword, and handles book checkout operations with availability tracking
 - **EduQuiz** – Educational quiz system that calculates student scores, displays percentage, and determines pass/fail status based on correct answers
 
-> 📁 *All scenario-based solutions are available inside the* `core-java-practice/scenario-based` *folder.*  
-> 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+> 📁 *All scenario-based solutions are available inside the* `oops-practice/scenario-based` *folder.*  
+> 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
 
 ---
 
