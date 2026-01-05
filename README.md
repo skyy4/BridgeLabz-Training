@@ -1,10 +1,16 @@
-# Daily Progress Log – BridgeLabz Training
+ # BridgeLabz-Training
 
-This log documents the daily progress of tasks completed during the BridgeLabz Training program, as recorded in the repository's README. Tasks are grouped by week with thematic headings, detailing the work done on each date and day.
+---
 
-## Repository Structure
+This repository serves as a **learning workspace for my BridgeLabz Training**.  
 
-The repository is organized in a modular way. Currently, all foundational Core Java work resides in the **core-java-practice** directory, OOPs practice work resides in the **oops-practice** directory, and review work resides in the **review** directory.
+It documents my **day-wise learning progress**, hands-on practice, and structured code organization.
+
+## Folder Structure
+
+The repository is organized in a modular way.  
+
+Currently, all foundational Core Java work resides in the **core-java-practice** directory, OOPs practice work resides in the **oops-practice** directory, and review work resides in the **review** directory.
 
 ```
 BridgeLabz-Training/
@@ -42,64 +48,604 @@ BridgeLabz-Training/
 |   |   +-- object-oriented-design/
 |   |   |
 |   |   +-- inheritance-polymorphism/
+|   |   |
+|   |   +-- encapsulation-polymorphism/
 |   |
 |   +-- scenario-based/
-|
+|   |
 +-- review (Branch & Folder Name)
-|
+|   |
 +-- README.md
 ```
 
-## 1 Week 1: Foundation & Fundamentals: Git, Java Basics, Control Flow & Arrays
+## 📅 Week 1 – Foundation & Fundamentals: Git, Java Basics, Control Flow & Arrays
 
-• **16-Dec-2024 (Monday)**: Created GitHub repository and linked it with VS Code. Learned basic Git commands (add, commit, push). Worked with branches (main, core-java-practice, oops-practice, review). Solved basic LeetCode problems: Armstrong Number, Fibonacci Number, Palindrome Number, Reverse Integer, Is Palindrome.  
-🔗 [Browse LeetCode solutions](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
+**[16-20 December]**
 
-• **17-Dec-2024 (Tuesday)**: Practiced Git Bash commands. Understood complete Git workflow. Solved basic Java programs focused on arithmetic operations and formulas (Add Two Numbers, Area of Circle, Average of Three Numbers, Basic Calculator, Celsius to Fahrenheit Conversion, and 20+ more programs).  
-🔗 [Browse Programming Elements](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
+---
 
-• **18-Dec-2024 (Wednesday)**: Continued practicing with additional Java programs focusing on advanced operations, user input handling, variables and data types, logical expressions, and writing structured code.  
-🔗 [Browse Programming Elements](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
+## 16 December (Monday)
 
-• **19-Dec-2024 (Thursday)**: Practiced and implemented Control Flow programs including conditional statements (if-else, switch-case), loops (for, while, do-while), and advanced logic (Armstrong Number, Prime Number Check, Abundant Number, Harshad Number).  
-🔗 [Browse Control Flow programs](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)
+### Git & GitHub
 
-• **20-Dec-2024 (Friday)**: Practiced and implemented Array-based programs covering one-dimensional arrays, two-dimensional arrays (matrices), and advanced array operations. Solved scenario-based problems: BMI Tracker and Coffee Counter.  
-🔗 [Browse Array programs](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays) | [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+- Created GitHub repository and linked it with VS Code  
+- Learned basic Git commands:
+  - `git add`
+  - `git commit`
+  - `git push`
+- Understood the purpose of **version control & repositories**
+- Worked with branches:
+  - `main`
+  - `core-java-practice`
+  - `oops-practice`
+  - `review`
+- Learned how commits work and how code is pushed to GitHub  
+- Understood repository structure and folder organization  
 
-## 2 Week 2: Strings, Scenario-Based Systems & Methods
+### Core Java – LeetCode Practice
 
-• **22-Dec-2024 (Monday)**: Solved string-focused problems covering text processing patterns including string creation, immutability, length checks, case conversion, substring extraction, searching, comparison, concatenation, reversal, palindrome checks, and frequency counts.  
-🔗 [Browse String programs](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
+Solved basic leetcode problems to improve logic and problem-solving skills:
 
-• **23-Dec-2024 (Tuesday)**: Solved scenario-based questions: Election Booth System and Metro Smart Card System.  
-🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+- Armstrong Number  
+- Fibonacci Number  
+- Palindrome Number  
+- Reverse Integer  
+- Is Palindrome  
 
-• **24-Dec-2024 (Wednesday)**: Practiced and implemented Method-based programs covering method declaration, parameter passing, return types, method overloading, and code reusability. Implemented 30+ practical programs including calculators, converters, analyzers, and utility functions.  
-🔗 [Browse Method programs](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
+> 📁 *All leetcode problem solutions are available inside the* `leet-code-codebase` *folder.*  
+> 🔗 [Browse LeetCode solutions](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
 
-• **26-Dec-2024 (Friday)**: Continued practicing with String-based programs. Solved additional practice questions covering mathematical operations, number operations, string operations, and advanced topics (Guess Game, Date Arithmetic, Date Comparison, Date Formatting, Time Zones). Solved scenario-based problems: Bus Route and Lucky Draw.  
-🔗 [Browse String programs](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings) | [Browse Extra practice programs](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extra) | [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+## 17 December (Tuesday)
 
-## 3 Week 3: Advanced Scenario-Based Problems & OOPs Introduction
+### Git & Git Bash
 
-• **29-Dec-2024 (Monday)**: Solved 6 real-world scenario-based problems: Employee Wage Computation, Line Comparison Computation, DigiWatch, FitTrack, LibFine, and MovieBook.  
-🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+- Practiced Git Bash commands  
+- Understood complete Git workflow  
+- Used `git status` to track new and modified files  
+- Used `git add`, `git commit`, and `git push` effectively  
+- Improved understanding of **branch-wise commits**  
+- Learned how to manage repository structure properly  
 
-• **30-Dec-2024 (Tuesday)**: Solved Snake and Ladder game simulation with single player and two-player modes. Started learning Object-Oriented Programming (OOPs) concepts by practicing with classes and objects. Implemented programs: BankAccount, Book, Item, MobilePhone, MovieTicket, PalindromeChecker, Student.  
-🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based) | [Browse OOPs practice programs](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/classes-and-object)
+### Core Java – Programming Elements
 
-• **31-Dec-2024 (Wednesday)**: Continued learning OOPs concepts by practicing with constructors, variables, and access modifiers. Studied default constructors, parameterized constructors, copy constructors, constructor chaining, access modifiers (public, protected, private), static variables and methods. Implemented 12+ programs including BankAccountAccess, BookAccess, EmployeeAccess, StudentAccess, CircleConstructor, HotelBooking, CarRental, LibBook, Course, Vehicle, Product.  
-🔗 [Browse OOPs practice programs](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructors-variables-access)
+Solved basic Java programs focused on arithmetic operations and formulas:
 
-• **01-Jan-2025 (Thursday)**: Continued learning OOPs concepts by practicing with static keywords, this reference, final modifiers, and instanceof operator. Implemented programs: LibraryBook, CompanyEmployee, CartProduct, UniversityStudent, RegisteredVehicle, HospitalPatient. Solved scenario-based problem: SentenceFormatter.  
-🔗 [Browse Static, This, Final & Instanceof programs](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/static-this-final-instanceof) | [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+- Add Two Numbers  
+- Area of Circle  
+- Average of Three Numbers  
+- Basic Calculator  
+- Celsius to Fahrenheit Conversion  
+- Division Solve  
+- Double Operations  
+- Find Age  
+- Find Distance  
+- Hand Shake  
+- Height Conversion  
+- Integer Operations  
+- Kilometers to Miles Conversion  
+- Pen Distribution  
+- Perimeter of Rectangle  
+- Power Calculation  
+- Price Calculator  
+- Printing Welcome  
+- Profit Loss Calculation  
+- Sam Average  
+- Simple Interest  
+- Square Perimeter  
+- Triangle Area  
+- University Discount  
+- Volume of Cylinder  
+- Volume of Earth  
 
-• **02-Jan-2025 (Friday)**: Studied object-oriented design principles including object modeling, design patterns, UML-like representations, OOPs principles (encapsulation, abstraction, inheritance, polymorphism). Studied Object Modeling concepts and analyzed sample problems. Solved scenario-based problems: Temperature Analyzer and Student Score Analyzer.  
-🔗 [Browse Object-Oriented Design materials](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/object-oriented-design) | [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+## 18 December (Wednesday)
 
-• **03-Jan-2025 (Saturday)**: Continued learning OOPs concepts by practicing with inheritance and polymorphism. Studied inheritance, extends keyword, method overriding, polymorphism, super keyword. Implemented 10+ programs including Animal Inheritance Hierarchy, Employee Management, Vehicle Hierarchy, Book and Author, Device Management, Order Management System, Bank Account System, Person and Teacher, Interface Implementation, Vehicle with Interface. Solved scenario-based problems: LibrarySystem, EduQuiz, BankAccountManager, and MathUtility.  
-🔗 [Browse Inheritance and Polymorphism programs](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance-polymorphism) | [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+### Core Java – Programming Elements (Continued)
+
+Continued practicing with additional Java programs focusing on advanced operations and problem-solving:
+
+- User input handling  
+- Variables and data types  
+- Basic arithmetic operations  
+- Applying simple formulas  
+- Improving logical thinking  
+- Operator precedence  
+- Combining multiple operations  
+- Logical expressions  
+- Writing structured and optimized code  
+
+> 📁 *All basic programs are available inside* `gcr-codebase/programming-elements`*.*  
+> 🔗 [Browse Programming Elements](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
+
+## 19 December (Thursday)
+
+### Core Java – Control Flow Statements
+
+Practiced and implemented **Control Flow programs** including:
+
+**Conditional Statements (if-else, switch-case):**
+- Number Sign Check
+- Odd Even Check
+- Voting Eligibility
+- Largest of Three Numbers
+- Smallest of Three Numbers
+- Leap Year Check
+- Day of Week
+- Grade Calculator
+- Employee Bonus
+- Friends Check
+- Spring Season
+- BMI Calculator
+- Divisible by 5
+
+**Loops (for, while, do-while):**
+- Count Down
+- Multiplication Table
+- Factorial Number (Multiple approaches)
+- Factors (Multiple approaches)
+- Greatest Factor (Multiple approaches)
+- Power Number (Multiple approaches)
+- Multiples (Multiple approaches)
+- Natural Number Sum (Multiple approaches)
+- FizzBuzz (Multiple approaches)
+- Sum Until Zero
+- Sum Break
+- Rocket Launch Countdown
+
+**Advanced Logic:**
+- Armstrong Number
+- Prime Number Check
+- Digit Count
+- Abundant Number
+- Harshad Number
+- Calculator
+
+> 📁 *All Control Flow programs are available inside* `gcr-codebase/control-flow`*.*  
+> 🔗 [Browse Control Flow programs](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)
+
+## 20 December (Friday)
+
+### Core Java – Arrays
+
+Practiced and implemented **Array-based programs** covering fundamental array operations and problem-solving:
+
+**One-Dimensional Arrays:**
+- BMI Array
+- Factors Array
+- FizzBuzz Array
+- Friends Array
+- Mean Height Calculation
+- Multiplication Table Array
+- Multiplication Table Range
+- Number Check Array
+- Odd Even Array
+- Reverse Number Array
+- Store Sum Array
+- Student Grade Array
+- Vote Check Array
+- Zara Bonus Calculation
+
+**Two-Dimensional Arrays (Matrices):**
+- BMI Matrix
+- Copy 2D to 1D Array
+- Student Grade Matrix
+
+**Advanced Array Operations:**
+- Digit Frequency
+- Digit Maximum (Multiple approaches)
+
+> 📁 *All Array programs are available inside* `gcr-codebase/arrays`*.*  
+> 🔗 [Browse Array programs](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)
+
+### Core Java – Scenario-Based Problems
+
+Solved real-world scenario-based problems to apply Java concepts in practical contexts:
+
+- **BMI Tracker** – Track and calculate BMI for multiple individuals
+- **Coffee Counter** – Manage coffee consumption tracking
+
+> 📁 *All scenario-based solutions are available inside the* `scenario-based` *folder.*  
+> 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+
+## 📅 Week 2 – Strings, Scenario-Based Systems & Methods
+
+**[22-24, 26 December]**
+
+---
+
+## 22 December (Monday)
+
+### Core Java – Strings
+
+Solved string-focused problems covering common text processing patterns:
+
+- String creation and immutability basics  
+- Length checks, case conversion, trimming, and whitespace handling  
+- Character access and iteration patterns  
+- Substring extraction and slicing techniques  
+- Searching (indexOf/lastIndexOf), matching, and simple validation  
+- String comparison (equals/equalsIgnoreCase) and ordering  
+- Concatenation and efficient building with StringBuilder  
+- Split/join workflows and token handling  
+- Reversal, palindrome checks, and symmetry validation  
+- Frequency counts and de-duplication patterns  
+- Formatting, prefix/suffix checks, and cleanup routines  
+
+> 📁 *All String programs are available inside* `gcr-codebase/strings`*.*  
+> 🔗 [Browse String programs](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
+
+## 23 December (Tuesday)
+
+### Scenario-Based Questions
+
+- **Election Booth System**
+- **Metro Smart Card System**
+
+> 📁 *All scenario-based solutions are available inside the* `scenario-based` *folder.*  
+> 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+
+## 24 December (Wednesday)
+
+### Core Java – Methods
+
+Practiced and implemented **Method-based programs** covering function creation, parameter passing, return types, and code reusability:
+
+**Method Fundamentals:**
+- Method declaration and definition
+- Parameter passing (primitive and reference types)
+- Return types and void methods
+- Method overloading
+- Code reusability and modularity
+
+**Practical Implementations:**
+- BMI Calculator
+- Simple Interest Calculator
+- Wind Chill Calculator
+- Length Converter
+- Unit Converter
+- Kilometers to Miles Conversion
+- Trigonometric Functions Calculator
+- Quadratic Equation Solver
+- Remainder and Quotient Finder
+- Number Analyzer and Checker
+- Number Properties and Utilities
+- Digit Analyzer and Utilities
+- Factor Operations and Utilities
+- Natural Number Sum
+- Min/Max of Three Numbers
+- Student Scorecard
+- Student Vote Checker
+- Friend Comparison
+- Football Team Height
+- Chocolate Distribution
+- Handshake Counter
+- Collinear Points
+- Line and Distance Calculations
+- Matrix Operations (Basic and Advanced)
+- Calendar Display
+- OTP Generator
+- Random Stats
+- Triangular Park Run
+- Spring Season Checker
+- Year Check
+- Zara Bonus Calculator
+- Sum Compare
+
+> 📁 *All Method programs are available inside* `gcr-codebase/methods`*.*  
+> 🔗 [Browse Method programs](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
+
+## 26 December (Friday)
+
+### Core Java – Strings
+
+Continued practicing with **String-based programs** covering various string manipulation and processing techniques:
+
+- String creation and immutability basics  
+- Length checks, case conversion, trimming, and whitespace handling  
+- Character access and iteration patterns  
+- Substring extraction and slicing techniques  
+- Searching (indexOf/lastIndexOf), matching, and simple validation  
+- String comparison (equals/equalsIgnoreCase) and ordering  
+- Concatenation and efficient building with StringBuilder  
+- Split/join workflows and token handling  
+- Reversal, palindrome checks, and symmetry validation  
+- Frequency counts and de-duplication patterns  
+- Formatting, prefix/suffix checks, and cleanup routines  
+
+> 📁 *All String programs are available inside* `gcr-codebase/strings`*.*  
+> 🔗 [Browse String programs](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
+
+### Core Java – Extra Practice Questions
+
+Solved additional practice questions covering various Java concepts and algorithms:
+
+**Mathematical Operations:**
+- Calculator (Addition, Subtraction, Multiplication, Division)
+- GCD and LCM Calculation (Euclidean Algorithm)
+- Maximum of Three Numbers
+- Temperature Conversion (Fahrenheit to Celsius and vice versa)
+
+**Number Operations:**
+- Factorial using Recursion
+- Fibonacci Sequence Generation
+- Prime Number Check
+
+**String Operations:**
+- Palindrome Check
+
+**Advanced Topics:**
+- Guess Game (Number guessing with binary search approach)
+- Date Arithmetic Operations
+- Date Comparison
+- Date Formatting
+- Time Zones Handling
+
+> 📁 *All extra practice programs are available inside* `gcr-codebase/extra`*.*  
+> 🔗 [Browse Extra practice programs](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extra)
+
+### Core Java – Scenario-Based Problems
+
+Solved real-world scenario-based problems to apply Java concepts in practical contexts:
+
+- **Bus Route** – Track total distance traveled by a passenger with multiple stops and exit confirmation
+- **Lucky Draw** – Implement a lucky draw system with winning conditions based on number divisibility
+
+> 📁 *All scenario-based solutions are available inside the* `scenario-based` *folder.*  
+> 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+
+## 📅 Week 3 – Advanced Scenario-Based Problems & OOPs Introduction
+
+**[29-31 December, 1-3 January]**
+
+---
+
+## 29 December (Monday)
+
+### Core Java – Scenario-Based Problems
+
+Solved 6 real-world scenario-based problems to apply Java concepts in practical contexts:
+
+- **Employee Wage Computation** – Calculate employee wages based on attendance, work type (full-time/part-time), monthly calculations, and constraints on total working hours and days
+- **Line Comparison Computation** – Calculate line lengths using Cartesian coordinates and compare two lines using equals() and compareTo() methods
+- **DigiWatch** – Digital watch simulation that displays time from 00:00 to 13:00 using nested loops
+- **FitTrack** – Fitness tracker that calculates total and average push-ups for a week, handling rest days (0 push-ups)
+- **LibFine** – Library fine calculator that computes fines for overdue books based on return dates and due dates
+- **MovieBook** – Movie booking system with different movie types (regular, 3D, IMAX), seat types (gold, silver), and optional snacks
+
+> 📁 *All scenario-based solutions are available inside the* `scenario-based` *folder.*  
+> 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+
+## 30 December (Tuesday)
+
+### Core Java – Scenario-Based Problems
+
+Solved a real-world scenario-based problem to apply Java concepts in practical contexts:
+
+- **Snake and Ladder** – Implemented a complete Snake and Ladder game simulation with single player and two-player modes, including dice rolling, position tracking, snake and ladder logic, exact winning position checks, and turn-based gameplay
+
+> 📁 *All scenario-based solutions are available inside the* `scenario-based` *folder.*  
+> 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+
+### OOPs Practice – Classes and Objects
+
+Started learning **Object-Oriented Programming (OOPs)** concepts by practicing with classes and objects:
+
+**Class and Object Fundamentals:**
+- Understanding classes as blueprints for objects
+- Creating objects from classes
+- Instance variables and instance methods
+- Object initialization and state management
+- Encapsulation basics
+
+**Practical Implementations:**
+- **BankAccount** – Bank account management with balance operations
+- **Book** – Book information management system
+- **Item** – Item details and properties management
+- **MobilePhone** – Mobile phone specifications and operations
+- **MovieTicket** – Movie ticket booking and pricing system
+- **PalindromeChecker** – Palindrome validation using OOPs approach
+- **Student** – Student information and grade management system
+
+> 📁 *All OOPs practice programs are available inside* `oops-practice/gcr-codebase/classes-and-object`*.*  
+> 🔗 [Browse OOPs practice programs](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/classes-and-obejct)
+
+## 31 December (Wednesday)
+
+### OOPs Practice – Constructors, Variables & Access Modifiers
+
+Continued learning **Object-Oriented Programming (OOPs)** concepts by practicing with constructors, variables, and access modifiers:
+
+**Constructor Fundamentals:**
+- Default constructors
+- Parameterized constructors
+- Copy constructors
+- Constructor chaining using `this()` keyword
+- Object initialization and state management
+
+**Access Modifiers:**
+- `public` – Accessible from anywhere
+- `protected` – Accessible within package and subclasses
+- `private` – Accessible only within the class
+- Access modifier usage with inheritance
+- Getters and setters for encapsulation
+
+**Static Variables and Methods:**
+- Static variables (class-level variables)
+- Static methods
+- Understanding class-level vs instance-level members
+- Accessing static members
+
+**Practical Implementations:**
+- **BankAccountAccess** – Bank account with access modifiers and inheritance
+- **BookAccess** – Book management with access modifiers and inheritance
+- **EmployeeAccess** – Employee management with access modifiers and inheritance
+- **StudentAccess** – Student management with access modifiers and inheritance
+- **Book** – Book class with default and parameterized constructors
+- **CircleConstructor** – Circle with constructor chaining
+- **HotelBooking** – Hotel booking with default, parameterized, and copy constructors
+- **Person** – Person class demonstrating copy constructor
+- **CarRental** – Car rental system with encapsulation
+- **LibBook** – Library book management with encapsulation
+- **Course** – Course management with static variables and methods
+- **Vehicle** – Vehicle registration with static variables and methods
+- **Product** – Product management with static counter
+
+> 📁 *All OOPs practice programs are available inside* `oops-practice/gcr-codebase/constructors-variables-access`*.*  
+> 🔗 [Browse OOPs practice programs](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructors-variables-access)
+
+## 1 January (Thursday)
+
+### OOPs Practice – Static, This, Final & Instanceof & Scenario-Based Problem
+
+Continued learning **Object-Oriented Programming (OOPs)** concepts by practicing with static keywords, this reference, final modifiers, and instanceof operator:
+
+**Key Concepts:**
+- Understanding `static` keyword for class-level variables and methods
+- Using `this` reference to access instance variables and methods
+- Applying `final` modifier to create constants and immutable fields
+- Using `instanceof` operator for type checking and safe casting
+- Static variable initialization and shared state management
+- Static method access and utility functions
+- Instance counting with static variables
+
+**Practical Implementations:**
+- **LibraryBook** – Library book management with static library name and final ISBN
+- **CompanyEmployee** – Employee management system with static company name and employee counter
+- **CartProduct** – Shopping cart product with static discount and final product ID
+- **UniversityStudent** – Student information system with static university name and student counter
+- **RegisteredVehicle** – Vehicle registration system with static registration fee
+- **HospitalPatient** – Patient management system with static hospital name and patient counter
+
+> 📁 *All Static, This, Final & Instanceof programs are available inside* `oops-practice/gcr-codebase/static-this-final-instanceof`*.*  
+> 🔗 [Browse Static, This, Final & Instanceof programs](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/static-this-final-instanceof)
+
+### OOPs Practice – Scenario-Based Problems
+
+Solved a real-world scenario-based problem focusing on string manipulation and text processing:
+
+- **SentenceFormatter** – Paragraph formatting system that capitalizes the first letter of each sentence, counts words, finds the longest word, and replaces words in a paragraph
+
+> 📁 *All scenario-based solutions are available inside the* `oops-practice/scenario-based` *folder.*  
+> 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
+## 2 January (Friday)
+
+### OOPs Practice – Object-Oriented Design
+
+Continued learning **Object-Oriented Programming (OOPs)** concepts by practicing with object-oriented design principles:
+
+**Key Concepts:**
+- Understanding object modeling and design patterns
+- Analyzing real-world problems and designing class structures
+- Creating UML-like representations of object relationships
+- Applying OOPs principles (encapsulation, abstraction, inheritance, polymorphism) in design
+- Problem decomposition and class responsibility assignment
+- Designing scalable and maintainable object-oriented solutions
+
+**Practical Work:**
+- **Object Modeling** – Studied object modeling concepts and design patterns
+- **Sample Problem** – Analyzed and designed solutions for sample problems using OOPs principles
+
+> 📁 *All Object-Oriented Design materials are available inside* `oops-practice/gcr-codebase/object-oriented-design`*.*  
+> 🔗 [Browse Object-Oriented Design materials](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/object-oriented-design)
+
+### OOPs Practice – Scenario-Based Problems
+
+Solved real-world scenario-based problems to apply Java concepts in practical contexts:
+
+- **Temperature Analyzer** – Analyzes temperature data for a week (7 days × 24 hours), calculates daily averages, and identifies the hottest and coldest days
+- **Student Score Analyzer** – Analyzes student scores by calculating average, highest, lowest scores, and displaying scores above the average
+
+> 📁 *All scenario-based solutions are available inside the* `oops-practice/scenario-based` *folder.*  
+> 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
+## 3 January (Saturday)
+
+### OOPs Practice – Inheritance and Polymorphism
+
+Continued learning **Object-Oriented Programming (OOPs)** concepts by practicing with inheritance and polymorphism:
+
+**Key Concepts:**
+- Understanding inheritance – creating child classes that extend parent classes
+- Using `extends` keyword to establish inheritance relationships
+- Method overriding using `@Override` annotation
+- Understanding polymorphism – one interface, multiple implementations
+- Using `super` keyword to call parent class constructors and methods
+- Combining classes and interfaces in single files
+- Organizing related classes with base and derived classes
+
+**Practical Implementations:**
+- **Animal Inheritance Hierarchy** – Animal base class with Dog, Cat, and Bird subclasses demonstrating method overriding and polymorphism
+- **Employee Management** – BaseEmployee and Manager classes showing inheritance with additional attributes
+- **Vehicle Hierarchy** – VehicleBase and Car classes demonstrating constructor chaining with super
+- **Book and Author** – Book base class with Author subclass
+- **Device Management** – Device base class with Thermostat subclass
+- **Order Management System** – Multi-level inheritance with Order, ShippedOrder, and DeliveredOrder classes
+- **Bank Account System** – BankAccount base class with SavingsAccount subclass
+- **Person and Teacher** – Person base class with Teacher subclass
+- **Interface Implementation** – Worker interface with Chef class and PersonBase, demonstrating multiple inheritance through interfaces
+- **Vehicle with Interface** – Refuelable interface with PetrolVehicle class and VehicleMain base class
+
+> 📁 *All Inheritance and Polymorphism programs are available inside* `oops-practice/gcr-codebase/inheritance-polymorphism`*.*  
+> 🔗 [Browse Inheritance and Polymorphism programs](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance-polymorphism)
+
+### OOPs Practice – Scenario-Based Problems
+
+Solved real-world scenario-based problems to apply Java concepts in practical contexts:
+
+- **LibrarySystem** – Library management system that displays books, searches for books by keyword, and handles book checkout operations with availability tracking
+- **EduQuiz** – Educational quiz system that calculates student scores, displays percentage, and determines pass/fail status based on correct answers
+- **BankAccountManager** – Bank account management system with deposit, withdrawal, and balance checking operations, including validation for invalid amounts and insufficient balance
+- **MathUtility** – Utility class with static methods for mathematical operations including factorial calculation, prime number checking, GCD computation, and Fibonacci sequence generation
+
+> 📁 *All scenario-based solutions are available inside the* `oops-practice/scenario-based` *folder.*  
+> 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
+## 📅 Week 4 – Encapsulation, Polymorphism & Advanced Scenario-Based Problems
+
+**[5-6 January]**
+
+---
+
+## 5 January (Sunday)
+
+### OOPs Practice – Encapsulation and Polymorphism
+
+Continued learning **Object-Oriented Programming (OOPs)** concepts by practicing with interfaces, abstract classes, and polymorphism:
+
+**Key Concepts:**
+- Understanding interfaces – defining contracts that classes must implement
+- Using `interface` keyword to create interfaces
+- Understanding abstract classes – classes that cannot be instantiated directly
+- Using `abstract` keyword for abstract classes and methods
+- Implementing multiple interfaces in a single class
+- Combining abstract classes with interface implementation
+- Achieving polymorphism through interfaces and abstract classes
+- Method implementation in concrete classes extending abstract classes
+
+**Practical Implementations:**
+- **FullEmp** – Employee management system with `Dept` interface, `Emp` abstract class, and `FullEmp` concrete class demonstrating department assignment
+- **Elec** – Electronic product system with `Tax` interface, `Prod` abstract class, and `Elec` concrete class for discount and tax calculation
+- **Car** – Vehicle rental system with `Ins` interface, `Veh` abstract class, and `Car` concrete class for rental and insurance calculation
+- **SavAcc** – Banking system with `Loan` interface, `Acc` abstract class, and `SavAcc` concrete class for interest and loan calculation
+- **Book** – Library system with `Res` interface, `LibItem` abstract class, and `Book` concrete class for reservation and loan period management
+- **NonVeg** – Food ordering system with `Disc` interface, `Food` abstract class, and `NonVeg` concrete class for total and discount calculation
+- **InPat** – Hospital management system with `Med` interface, `Pat` abstract class, and `InPat` concrete class for patient billing
+- **Auto** – Ride booking system with `Gps` interface, `Ride` abstract class, and `Auto` concrete class for fare calculation and location tracking
+
+> 📁 *All Encapsulation and Polymorphism programs are available inside* `oops-practice/gcr-codebase/encapsulation-polymorphism`*.*  
+> 🔗 [Browse Encapsulation and Polymorphism programs](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/encapsulation-polymorphism)
+
+## 6 January (Monday)
+
+### OOPs Practice – Scenario-Based Problems
+
+Solved real-world scenario-based problems to apply Java concepts in practical contexts:
+
+- **ScoreAnalyzer** – Score analysis system that validates score ranges (0-100), calculates average, and finds highest and lowest scores from an array of student scores
+- **InvoiceGen** – Invoice generation system that parses invoice strings, extracts item names and amounts, and calculates the total invoice amount with proper error handling
+
+> 📁 *All scenario-based solutions are available inside the* `oops-practice/scenario-based` *folder.*  
+> 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
 
 ---
 
@@ -108,6 +654,7 @@ BridgeLabz-Training/
 **GitHub Repository:** [https://github.com/skyy4/BridgeLabs-Training](https://github.com/skyy4/BridgeLabs-Training)
 
 This repository contains all the code, programs, and solutions created during the BridgeLabz Training program. You can clone, explore, and contribute to this repository.
+
 
 ## How to Clone and Run Locally
 
@@ -133,5 +680,9 @@ cd core-java-practice/gcr-codebase/programming-elements/
 javac Filename.java
 java Filename
 ```
+
+---
+
+
 
 ---
