@@ -602,11 +602,11 @@ Solved real-world scenario-based problems to apply Java concepts in practical co
 
 ## 📅 Week 4 – Encapsulation, Polymorphism & Advanced Scenario-Based Problems
 
-**[5-6 January]**
+**[5 January]**
 
 ---
 
-## 5 January (Sunday)
+## 5 January (Monday)
 
 ### OOPs Practice – Encapsulation and Polymorphism
 
@@ -634,8 +634,6 @@ Continued learning **Object-Oriented Programming (OOPs)** concepts by practicing
 
 > 📁 *All Encapsulation and Polymorphism programs are available inside* `oops-practice/gcr-codebase/encapsulation-polymorphism`*.*  
 > 🔗 [Browse Encapsulation and Polymorphism programs](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/encapsulation-polymorphism)
-
-## 6 January (Monday)
 
 ### OOPs Practice – Scenario-Based Problems
 
