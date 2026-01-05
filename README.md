@@ -48,6 +48,8 @@ BridgeLabz-Training/
 |   |   +-- object-oriented-design/
 |   |   |
 |   |   +-- inheritance-polymorphism/
+|   |   |
+|   |   +-- encapsulation-polymorphism/
 |   |
 |   +-- scenario-based/
 |   |
@@ -594,6 +596,51 @@ Solved real-world scenario-based problems to apply Java concepts in practical co
 - **EduQuiz** – Educational quiz system that calculates student scores, displays percentage, and determines pass/fail status based on correct answers
 - **BankAccountManager** – Bank account management system with deposit, withdrawal, and balance checking operations, including validation for invalid amounts and insufficient balance
 - **MathUtility** – Utility class with static methods for mathematical operations including factorial calculation, prime number checking, GCD computation, and Fibonacci sequence generation
+
+> 📁 *All scenario-based solutions are available inside the* `oops-practice/scenario-based` *folder.*  
+> 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
+## 📅 Week 4 – Encapsulation, Polymorphism & Advanced Scenario-Based Problems
+
+**[5 January]**
+
+---
+
+## 5 January (Monday)
+
+### OOPs Practice – Encapsulation and Polymorphism
+
+Continued learning **Object-Oriented Programming (OOPs)** concepts by practicing with interfaces, abstract classes, and polymorphism:
+
+**Key Concepts:**
+- Understanding interfaces – defining contracts that classes must implement
+- Using `interface` keyword to create interfaces
+- Understanding abstract classes – classes that cannot be instantiated directly
+- Using `abstract` keyword for abstract classes and methods
+- Implementing multiple interfaces in a single class
+- Combining abstract classes with interface implementation
+- Achieving polymorphism through interfaces and abstract classes
+- Method implementation in concrete classes extending abstract classes
+
+**Practical Implementations:**
+- **FullEmp** – Employee management system with `Dept` interface, `Emp` abstract class, and `FullEmp` concrete class demonstrating department assignment
+- **Elec** – Electronic product system with `Tax` interface, `Prod` abstract class, and `Elec` concrete class for discount and tax calculation
+- **Car** – Vehicle rental system with `Ins` interface, `Veh` abstract class, and `Car` concrete class for rental and insurance calculation
+- **SavAcc** – Banking system with `Loan` interface, `Acc` abstract class, and `SavAcc` concrete class for interest and loan calculation
+- **Book** – Library system with `Res` interface, `LibItem` abstract class, and `Book` concrete class for reservation and loan period management
+- **NonVeg** – Food ordering system with `Disc` interface, `Food` abstract class, and `NonVeg` concrete class for total and discount calculation
+- **InPat** – Hospital management system with `Med` interface, `Pat` abstract class, and `InPat` concrete class for patient billing
+- **Auto** – Ride booking system with `Gps` interface, `Ride` abstract class, and `Auto` concrete class for fare calculation and location tracking
+
+> 📁 *All Encapsulation and Polymorphism programs are available inside* `oops-practice/gcr-codebase/encapsulation-polymorphism`*.*  
+> 🔗 [Browse Encapsulation and Polymorphism programs](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/encapsulation-polymorphism)
+
+### OOPs Practice – Scenario-Based Problems
+
+Solved real-world scenario-based problems to apply Java concepts in practical contexts:
+
+- **ScoreAnalyzer** – Score analysis system that validates score ranges (0-100), calculates average, and finds highest and lowest scores from an array of student scores
+- **InvoiceGen** – Invoice generation system that parses invoice strings, extracts item names and amounts, and calculates the total invoice amount with proper error handling
 
 > 📁 *All scenario-based solutions are available inside the* `oops-practice/scenario-based` *folder.*  
 > 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
