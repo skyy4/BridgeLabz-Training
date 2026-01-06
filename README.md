@@ -51,6 +51,8 @@ BridgeLabz-Training/
 |   |   |
 |   |   +-- encapsulation-polymorphism/
 |   |
+|   +-- leetcode-codebase/
+|   |
 |   +-- scenario-based/
 |   |
 +-- review (Branch & Folder Name)
@@ -602,7 +604,7 @@ Solved real-world scenario-based problems to apply Java concepts in practical co
 
 ## 📅 Week 4 – Encapsulation, Polymorphism & Advanced Scenario-Based Problems
 
-**[5 January]**
+**[5-6 January]**
 
 ---
 
@@ -641,6 +643,32 @@ Solved real-world scenario-based problems to apply Java concepts in practical co
 
 - **ScoreAnalyzer** – Score analysis system that validates score ranges (0-100), calculates average, and finds highest and lowest scores from an array of student scores
 - **InvoiceGen** – Invoice generation system that parses invoice strings, extracts item names and amounts, and calculates the total invoice amount with proper error handling
+
+> 📁 *All scenario-based solutions are available inside the* `oops-practice/scenario-based` *folder.*  
+> 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
+## 6 January (Tuesday)
+
+### OOPs Practice – LeetCode Problems
+
+Solved LeetCode problems to improve algorithmic thinking and problem-solving skills:
+
+- **TwoSum** – Find two numbers in an array that add up to a target value using HashMap for efficient lookup
+- **ValidParentheses** – Validate if a string containing parentheses, brackets, and braces is properly closed using stack data structure
+- **PlusOne** – Increment a number represented as an array of digits, handling carry propagation
+- **ClimbingStairs** – Calculate the number of ways to climb n stairs (can take 1 or 2 steps at a time) using dynamic programming approach
+
+> 📁 *All LeetCode problem solutions are available inside the* `oops-practice/leetcode-codebase` *folder.*  
+> 🔗 [Browse LeetCode solutions](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/leetcode-codebase)
+
+### OOPs Practice – Scenario-Based Problems
+
+Solved real-world scenario-based problems to apply Java concepts in practical contexts:
+
+- **PhoneBook** – Phone book management system with contact addition (phone number validation), search by phone number, and delete contact functionality, with duplicate contact prevention
+- **Quiz** – Quiz scoring system that compares correct and user answers, calculates score, and assigns grades (A, B, C) based on score thresholds
+- **Report** – Student report generation system that validates marks (0-100), calculates average marks, and assigns grades (A, B, C) based on average score
+- **Library** – Library management system that searches books by partial title match, handles book checkout operations with availability tracking, and prevents checkout of unavailable books
 
 > 📁 *All scenario-based solutions are available inside the* `oops-practice/scenario-based` *folder.*  
 > 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
