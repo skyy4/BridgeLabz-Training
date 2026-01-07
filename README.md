@@ -604,7 +604,7 @@ Solved real-world scenario-based problems to apply Java concepts in practical co
 
 ## 📅 Week 4 – Encapsulation, Polymorphism & Advanced Scenario-Based Problems
 
-**[5-6 January]**
+**[5-7 January]**
 
 ---
 
@@ -669,6 +669,18 @@ Solved real-world scenario-based problems to apply Java concepts in practical co
 - **Quiz** – Quiz scoring system that compares correct and user answers, calculates score, and assigns grades (A, B, C) based on score thresholds
 - **Report** – Student report generation system that validates marks (0-100), calculates average marks, and assigns grades (A, B, C) based on average score
 - **Library** – Library management system that searches books by partial title match, handles book checkout operations with availability tracking, and prevents checkout of unavailable books
+
+> 📁 *All scenario-based solutions are available inside the* `oops-practice/scenario-based` *folder.*  
+> 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
+## 7 January (Wednesday)
+
+### OOPs Practice – Scenario-Based Problems
+
+Solved real-world scenario-based problems to apply Java concepts in practical contexts:
+
+- **CabBookingSystem** – Implemented a cab booking application that handles ride booking, driver assignment, and fare calculation (supporting normal and peak rates) using exception handling and polymorphism.
+- **BankService** – Designed a banking system using interfaces to define core operations (deposit, withdraw), implemented by varying account types (Savings, Current) to enforce specific transaction rules and balance management.
 
 > 📁 *All scenario-based solutions are available inside the* `oops-practice/scenario-based` *folder.*  
 > 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
