@@ -55,6 +55,10 @@ BridgeLabz-Training/
 |   |
 |   +-- scenario-based/
 |   |
++-- dsa-practice/(Branch & Folder Name)
+|   |
+|   +-- gcr-codebase/
+|   |
 +-- review (Branch & Folder Name)
 |   |
 +-- README.md
@@ -684,6 +688,25 @@ Solved real-world scenario-based problems to apply Java concepts in practical co
 
 > 📁 *All scenario-based solutions are available inside the* `oops-practice/scenario-based` *folder.*  
 > 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
+## 8 January (Thursday)
+
+### DSA Practice – Linked List & Data Structures
+
+Solved various Data Structure problems using Java, focusing on Linked Lists and other structures:
+
+- **StudentList** – Singly Linked List implementation to manage student records (add, delete, search, update)
+- **MovieList** – Doubly Linked List implementation for movie ratings (forward/reverse display)
+- **TaskScheduler** – Circular Linked List implementation for task scheduling
+- **Inventory** – Singly Linked List for inventory management
+- **LibrarySystem** – Doubly Linked List for library book management
+- **RoundRobin** – Circular Linked List for CPU scheduling simulation
+- **SocialNetwork** – Graph-like structure using Linked Lists for user connections
+- **TextEditor** – Doubly Linked List for undo/redo functionality
+- **TicketSystem** – Circular Linked List for ticket booking
+
+> 📁 *All DSA practice programs are available inside* `gcr-codebase` *in `dsa-practice` branch.*  
+> 🔗 [Browse DSA Practice](https://github.com/skyy4/BridgeLabz-Training/tree/dsa-practice/gcr-codebase)
 
 ---
 
