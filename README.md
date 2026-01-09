@@ -710,6 +710,21 @@ Solved various Data Structure problems using Java, focusing on Linked Lists and 
 
 ---
 
+## 9 January (Friday)
+
+### OOPs Practice – Scenario-Based Problems
+
+Solved real-world scenario-based problems to apply Java concepts in practical contexts:
+
+- **Hospital Management System** – Designed using interfaces and inheritance with `InPatient` and `OutPatient` classes.
+- **Vehicle Rental System** – Implemented polymorphism with `Vehicle` base class and `Rentable` interface for `Bike`, `Car`, and `Truck`.
+- **Flight Booking System** – Created a booking system with `Flight` and `Booking` classes to handle search and booking operations.
+
+> 📁 *All scenario-based solutions are available inside the* `oops-practice/scenario-based` *folder.*  
+> 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
+---
+
 ## Repository
 
 **GitHub Repository:** [https://github.com/skyy4/BridgeLabs-Training](https://github.com/skyy4/BridgeLabs-Training)
