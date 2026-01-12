@@ -57,7 +57,10 @@ BridgeLabz-Training/
 |   |
 +-- dsa-practice/(Branch & Folder Name)
 |   |
+|   |   
 |   +-- gcr-codebase/
+|   |
+|   +-- scenario-based/
 |   |
 +-- review (Branch & Folder Name)
 |   |
@@ -725,7 +728,7 @@ Solved real-world scenario-based problems to apply Java concepts in practical co
 
 ---
 
-## 📅 Week 5 – Advanced OOPs Scenarios & Exception Handling
+## 📅 Week 5 – Advanced OOPs Scenarios, Exception Handling & DSA Problems
 
 **[12-16 January]**
 
@@ -747,6 +750,17 @@ Refactored and organized 7 complex scenario-based systems into structured Java p
 
 > 📁 *All scenario-based solutions are available inside the* `oops-practice/scenario-based` *folder.*  
 > 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
+### DSA Practice – Scenario-Based Problems
+
+Solved real-world scenario-based problems applying Data Structures and Algorithms:
+
+- **Traffic Manager** – Implemented a traffic signal simulation using a circular linked list to manage car queues efficiently.
+- **Smart Shelf** – Developed a book organization system that sorts books alphabetically using Insertion Sort.
+- **Ticket Sorter** – Created a ticket pricing system that sorts ticket prices using Quick Sort for optimized display.
+
+> 📁 *All scenario-based solutions are available inside the* `dsa-practice/scenario-based` *folder.*  
+> 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based)
 
 ---
 
