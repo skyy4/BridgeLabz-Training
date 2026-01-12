@@ -608,7 +608,7 @@ Solved real-world scenario-based problems to apply Java concepts in practical co
 
 ## 📅 Week 4 – Encapsulation, Polymorphism & Advanced Scenario-Based Problems
 
-**[5-7 January]**
+**[5-9 January]**
 
 ---
 
@@ -719,6 +719,31 @@ Solved real-world scenario-based problems to apply Java concepts in practical co
 - **Hospital Management System** – Designed using interfaces and inheritance with `InPatient` and `OutPatient` classes.
 - **Vehicle Rental System** – Implemented polymorphism with `Vehicle` base class and `Rentable` interface for `Bike`, `Car`, and `Truck`.
 - **Flight Booking System** – Created a booking system with `Flight` and `Booking` classes to handle search and booking operations.
+
+> 📁 *All scenario-based solutions are available inside the* `oops-practice/scenario-based` *folder.*  
+> 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
+---
+
+## 📅 Week 5 – Advanced OOPs Scenarios & Exception Handling
+
+**[12-16 January]**
+
+---
+
+## 12 January (Monday)
+
+### OOPs Practice – Scenario-Based Problems
+
+Refactored and organized 7 complex scenario-based systems into structured Java projects with proper exception handling and package organization:
+
+- **Payment System** – Implemented a payment processing system supporting Card, UPI, and Wallet methods with custom `PaymentFailedException`.
+- **Course Registration** – Created a student enrollment system with course logic and `CourseLimitExceededException`.
+- **Inventory Management** – Built an inventory tracking system with stock updates, low stock alerts, and `OutOfStockException`.
+- **Online Exam** – Developed an exam system with objective/descriptive evaluation strategies and `ExamTimeExpiredException`.
+- **Hotel Room Booking** – Implemented a room pricing system with Deluxe/Standard rooms and `RoomNotAvailableException` using Strategy pattern.
+- **Election System** – Designed a voting system with candidate tracking and `DuplicateVoteException` to prevent double voting.
+- **Wallet Transfer** – Created a fund transfer system between wallets with `InsufficientBalanceException`.
 
 > 📁 *All scenario-based solutions are available inside the* `oops-practice/scenario-based` *folder.*  
 > 🔗 [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
