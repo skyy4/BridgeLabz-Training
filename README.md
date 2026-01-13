@@ -777,7 +777,7 @@ Solved various algorithmic problems using Stack and Queue data structures:
 - **QueueUsingStacks** – Implemented a standard queue functionality using two stacks.
 
 > 📁 *All Stack & Queue programs are available inside* `gcr-codebase` *in `dsa-practice` branch.*  
-> 🔗 [Browse Stack & Queue Practice](https://github.com/skyy4/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/Stack%20&%20Queue)
+> 🔗 [Browse Stack & Queue Practice](https://github.com/skyy4/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/Stack%20%26%20Queue)
 
 ### DSA Practice – HashMaps
 
@@ -790,7 +790,7 @@ Implemented and applied HashMaps to solve common algorithmic challenges:
 - **TwoSum** – Provided an efficient solution to return indices of two numbers that add up to a target.
 
 > 📁 *All HashMap programs are available inside* `gcr-codebase` *in `dsa-practice` branch.*  
-> 🔗 [Browse HashMap Practice](https://github.com/skyy4/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/Hashmap)
+> 🔗 [Browse HashMap Practice](https://github.com/skyy4/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/Hashmap)
 
 ---
 
