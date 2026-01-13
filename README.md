@@ -764,6 +764,36 @@ Solved real-world scenario-based problems applying Data Structures and Algorithm
 
 ---
 
+## 13 January (Tuesday)
+
+### DSA Practice – Stacks & Queues
+
+Solved various algorithmic problems using Stack and Queue data structures:
+
+- **StockSpan** – Calculated the span of stock prices for all days using a stack-based approach.
+- **SortStack** – Implemented a mechanism to sort elements in a stack using recursion or an auxiliary stack.
+- **SlidingWindowMax** – Found the maximum element in every sliding window of size `k` using an optimized deque.
+- **CircularTour** – Determined the starting petrol pump to complete a circular tour of all pumps.
+- **QueueUsingStacks** – Implemented a standard queue functionality using two stacks.
+
+> 📁 *All Stack & Queue programs are available inside* `gcr-codebase` *in `dsa-practice` branch.*  
+> 🔗 [Browse Stack & Queue Practice](https://github.com/skyy4/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/Stack%20&%20Queue)
+
+### DSA Practice – HashMaps
+
+Implemented and applied HashMaps to solve common algorithmic challenges:
+
+- **MyHashMap** – Developed a custom HashMap implementation from scratch with collision handling.
+- **ZeroSumSubarray** – Implemented logic to detect if any subarray within an array has a sum equal to zero.
+- **LongestConsecutive** – Found the length of the longest subsequence of consecutive integers in an array.
+- **PairSum** – Identified pairs of elements in an array that sum up to a specific target value.
+- **TwoSum** – Provided an efficient solution to return indices of two numbers that add up to a target.
+
+> 📁 *All HashMap programs are available inside* `gcr-codebase` *in `dsa-practice` branch.*  
+> 🔗 [Browse HashMap Practice](https://github.com/skyy4/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/Hashmap)
+
+---
+
 ## Repository
 
 **GitHub Repository:** [https://github.com/skyy4/BridgeLabs-Training](https://github.com/skyy4/BridgeLabs-Training)
