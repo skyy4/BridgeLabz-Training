@@ -171,8 +171,8 @@ BridgeLabz-Training/
     *   **TrafficManager** (Queue & Circular Linked List)
     *   **BookShelf** (HashMap & HashSet)
     *   **BrowserBuddy** (Stack & Doubly Linked List)
-    *   [Browse String & Search programs](https://github.com/skyy4/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/StringAndLinearBinarySearch)
-    *   [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/dsa-practice/scenario-based)
+    *   [Browse String & Search programs](https://github.com/skyy4/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/StringAndLinearBinarySearch)
+    *   [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based)
 
 ---
 
