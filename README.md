@@ -6,7 +6,7 @@ This log documents the daily progress of tasks completed during the BridgeLabz t
 
 The repository is organized in a modular way.  
 
-Currently, all foundational Core Java work resides in the **core-java-practice** directory, OOPs practice work resides in the **oops-practice** directory, and review work resides in the **review** directory.
+Currently, all foundational Core Java work resides in the **core-java-practice** directory, OOPs practice work resides in the **oops-practice** directory,DSA practice work resides in the **dsa-practice** directory and review work resides in the **review** directory.
 
 ```
 BridgeLabz-Training/
@@ -62,6 +62,8 @@ BridgeLabz-Training/
 |   |   +-- Hashmap/
 |   |   |
 |   |   +-- SortingAlgorithm/
+|   |   |
+|   |   +-- StringAndLinearBinarySearch/
 |   |
 |   +-- scenario-based/
 |
@@ -164,6 +166,13 @@ BridgeLabz-Training/
 
 *   **16-Jan-2025 (Friday):** Implemented **Sorting Algorithms**: Bubble, Insertion, Merge, Quick, Selection, Heap, and Counting Sort.
     *   [Browse Sorting Algorithms](https://github.com/skyy4/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/SortingAlgorithm)
+
+*   **17-Jan-2025 (Saturday):** Implemented **String Manipulation**, **File I/O**, and **Search Algorithms** (Linear & Binary). Solved problems including Reverse String, Word Count, Binary Search, and 2D Search. Implemented three complex **Scenario-Based** applications:
+    *   **TrafficManager** (Queue & Circular Linked List)
+    *   **BookShelf** (HashMap & HashSet)
+    *   **BrowserBuddy** (Stack & Doubly Linked List)
+    *   [Browse String & Search programs](https://github.com/skyy4/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/StringAndLinearBinarySearch)
+    *   [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/dsa-practice/scenario-based)
 
 ---
 
