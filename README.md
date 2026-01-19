@@ -64,6 +64,8 @@ BridgeLabz-Training/
 |   |   +-- SortingAlgorithm/
 |   |   |
 |   |   +-- StringAndLinearBinarySearch/
+|   |   |
+|   |   +-- RuntimeAnalysisAndBigONotation/
 |   |
 |   +-- scenario-based/
 |
@@ -173,6 +175,19 @@ BridgeLabz-Training/
     *   **BrowserBuddy** (Stack & Doubly Linked List)
     *   [Browse String & Search programs](https://github.com/skyy4/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/StringAndLinearBinarySearch)
     *   [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based)
+
+---
+
+## Week 6: Runtime Analysis & Advanced Scenarios
+**Big O Notation, Banking & Employee Systems**
+
+*   **19-Jan-2026 (Monday):**
+    *   **DSA:** Created `RuntimeAnalysisAndBigONotation` directory. Implemented **Runtime Analysis** and **Big O Notation** examples (Sorting, Searching, String Ops).
+        *   [Browse Algo Analysis](https://github.com/skyy4/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/RuntimeAnalysisAndBigONotation)
+    *   **DSA Scenarios:** Implemented **ExamProctor** (Stack & HashMap) and **ParcelTracker** (Linked List) for tracking systems.
+        *   [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based)
+    *   **OOPS Scenarios:** Implemented **AddressBook**, **BankAccountSystem** (Interfaces), and **EmployeeSystem** (Polymorphism).
+        *   [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
 
 ---
 
