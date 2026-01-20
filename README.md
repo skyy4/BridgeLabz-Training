@@ -70,7 +70,7 @@ BridgeLabz-Training/
 |   +-- scenario-based/
 |
 |
-+-- collection-practice/(Branch & Folder Name)
++-- collections-practice/(Branch & Folder Name)
 |   |
 |   +-- gcr-codebase/
 |   |   |
@@ -199,6 +199,8 @@ BridgeLabz-Training/
         *   [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
 
 *   **20-Jan-2026 (Tuesday):**
+    *   **DSA Scenarios:** Solved **CinemaTime** (Exception Handling & Time Validation).
+        *   [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based)
     *   **Collections:** Created `collection-practice` branch. Implemented **Java Generics** problems including `WarehouseTest` (Generic Storage), `MarketplaceTest` (Bounded Type Parameters), `CourseTest` (Wildcards), `MealTest` (Interfaces with Generics), and `ResumeTest` (Screening Pipeline).
         *   [Browse Collection Practice](https://github.com/skyy4/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/JavaGenerics)
 
