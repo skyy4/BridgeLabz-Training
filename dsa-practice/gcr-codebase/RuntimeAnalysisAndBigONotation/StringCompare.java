@@ -8,6 +8,7 @@ public class StringCompare {
         for (int i = 0; i < n; i++)
             s += "a";
         long e1 = System.nanoTime();
+        System.out.println("S length: " + s.length());
 
         long s2 = System.nanoTime();
         StringBuilder sb = new StringBuilder();

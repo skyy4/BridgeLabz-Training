@@ -11,6 +11,7 @@ public class MyHashMap {
         }
     }
 
+    @SuppressWarnings("unchecked")
     LinkedList<Node>[] arr = new LinkedList[5];
 
     void put(int k, int v) {
