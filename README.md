@@ -204,6 +204,14 @@ BridgeLabz-Training/
     *   **Collections:** Created `collection-practice` branch. Implemented **Java Generics** problems including `WarehouseTest` (Generic Storage), `MarketplaceTest` (Bounded Type Parameters), `CourseTest` (Wildcards), `MealTest` (Interfaces with Generics), and `ResumeTest` (Screening Pipeline).
         *   [Browse Collection Practice](https://github.com/skyy4/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/JavaGenerics)
 
+*   **21-Jan-2026 (Wednesday):**
+    *   **Collections:** Renamed branch and folder to `collections-practice`. Implemented various **Collection Framework** problems in `collections` directory:
+        *   **List & Set:** `ReverseList`, `RotateList`, `NthFromEnd`, `SetOperations`, `RemoveDuplicates`.
+        *   **Map:** `Frequency`, `GroupDept`, `InvertMap`, `MergeMap`, `WordFreq`.
+        *   **Stack/Queue:** `ReverseQueue`, `StackQ`, `CircularBuffer`, `Triage`.
+        *   **Systems:** `InsurancePolicyManagement` (Policy Manager & Performance Test).
+        *   [Browse Collections Practice](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/collections)
+
 ---
 
 ## Repository Info
