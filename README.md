@@ -75,6 +75,8 @@ BridgeLabz-Training/
 |   +-- gcr-codebase/
 |   |   |
 |   |   +-- JavaGenerics/
+|   |   |
+|   |   +-- collections/
 |   |
 |   +-- scenario-based/ 
 |
@@ -211,6 +213,8 @@ BridgeLabz-Training/
         *   **Stack/Queue:** `ReverseQueue`, `StackQ`, `CircularBuffer`, `Triage`.
         *   **Systems:** `InsurancePolicyManagement` (Policy Manager & Performance Test).
         *   [Browse Collections Practice](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/collections)
+    *   **DSA Scenarios:** Implemented **EduResults** (Merge Sort) and **SmartCheckout** (Queue System) for scenario-based problems.
+        *   [Browse DSA Scenarios](https://github.com/skyy4/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based)
 
 ---
 
