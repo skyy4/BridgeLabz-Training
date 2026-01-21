@@ -1,3 +1,5 @@
+package JavaGenerics;
+
 interface MealPlan {
     String type();
 }

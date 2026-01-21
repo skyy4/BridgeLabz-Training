@@ -1,3 +1,5 @@
+package JavaGenerics;
+
 abstract class WarehouseItem {
     String name;
     WarehouseItem(String name){

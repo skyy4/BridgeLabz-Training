@@ -1,3 +1,5 @@
+package JavaGenerics;
+
 abstract class Category {
 }
 
@@ -13,7 +15,7 @@ class Product<T extends Category> {
 
     Product(String name, double price) {
         this.name = name;
-        this.price = price;
+        this.price = price;  
     }
 }
 

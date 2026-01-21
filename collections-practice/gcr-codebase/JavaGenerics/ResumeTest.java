@@ -1,3 +1,5 @@
+package JavaGenerics;
+
 abstract class JobRole {
     abstract String role();
 }

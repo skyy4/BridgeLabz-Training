@@ -1,3 +1,7 @@
+package JavaGenerics;
+
+import java.util.*;
+
 abstract class CourseType {
     abstract String evaluation();
 }
@@ -23,16 +27,19 @@ class Course<T extends CourseType> {
 }
 
 class CourseUtil {
-    static void displayCourses(Course<? extends CourseType>[] c) {
-        for (Course<? extends CourseType> x : c)
+    static void displayCourses(List<? extends Course<? extends CourseType>> c) {
+        for (Course<? extends CourseType> x : c) {
             System.out.println(x.type.evaluation());
+        }
     }
 }
 
-public class CourseTest {
+public class CourseTest {         
     public static void main(String[] args) {
-        Course<ExamCourse>[] arr = new Course[] { new Course<>(new ExamCourse()) };
 
-        CourseUtil.displayCourses(arr);
+        List<Course<CourseType>> list = new ArrayList<>();
+        list.add(new Course<>(new ExamCourse()));
+
+        CourseUtil.displayCourses(list);
     }
 }
