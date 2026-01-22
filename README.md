@@ -211,7 +211,7 @@ BridgeLabz-Training/
         *   **List & Set:** `ReverseList`, `RotateList`, `NthFromEnd`, `SetOperations`, `RemoveDuplicates`.
         *   **Map:** `Frequency`, `GroupDept`, `InvertMap`, `MergeMap`, `WordFreq`.
         *   **Stack/Queue:** `ReverseQueue`, `StackQ`, `CircularBuffer`, `Triage`.
-        *   **Systems:** `InsurancePolicyManagement` (Policy Manager & Performance Test).
+        *   **Systems:** `InsurancePolicyManagement` (Policy Manager & Performance Test),`BankingSystem`,`ShoppingCart`,`VotingSystem`.
         *   [Browse Collections Practice](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/collections)
     *   **DSA Scenarios:** Implemented **EduResults** (Merge Sort) and **SmartCheckout** (Queue System) for scenario-based problems.
         *   [Browse DSA Scenarios](https://github.com/skyy4/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based)
