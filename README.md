@@ -11,7 +11,7 @@ Currently, all foundational Core Java work resides in the **core-java-practice**
 ```
 BridgeLabz-Training/
 |
-+-- core-java-practice/(Branch & Folder Name)
+-+-- core-java-practice/(Branch & Folder Name)
 |   |
 |   +-- gcr-codebase/
 |   |   |
@@ -31,7 +31,7 @@ BridgeLabz-Training/
 |   |
 |   +-- scenario-based/
 |
-+-- oops-practice/(Branch & Folder Name)
+-+-- oops-practice/(Branch & Folder Name)
 |   |
 |   +-- gcr-codebase/
 |   |   |
@@ -51,7 +51,7 @@ BridgeLabz-Training/
 |   |
 |   +-- scenario-based/
 |
-+-- dsa-practice/(Branch & Folder Name)
+-+-- dsa-practice/(Branch & Folder Name)
 |   |
 |   +-- gcr-codebase/
 |   |   |
@@ -70,19 +70,21 @@ BridgeLabz-Training/
 |   +-- scenario-based/
 |
 |
-+-- collections-practice/(Branch & Folder Name)
+-+-- collections-practice/(Branch & Folder Name)
 |   |
 |   +-- gcr-codebase/
 |   |   |
 |   |   +-- JavaGenerics/
 |   |   |
 |   |   +-- collections/
+|   |   |
+|   |   +-- JavaStreams/
 |   |
 |   +-- scenario-based/ 
 |
-+-- review (Branch & Folder Name)
+-+-- review (Branch & Folder Name)
 |   |
-+-- README.md
+-+-- README.md
 ```
 
 ## Week 1: Foundation & Fundamentals
@@ -215,6 +217,15 @@ BridgeLabz-Training/
         *   [Browse Collections Practice](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/collections)
     *   **DSA Scenarios:** Implemented **EduResults** (Merge Sort) and **SmartCheckout** (Queue System) for scenario-based problems.
         *   [Browse DSA Scenarios](https://github.com/skyy4/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based)
+
+---
+
+## Week 7: Java Streams
+**Java Stream API & File Handling**
+
+*   **26-Jan-2026 (Monday):**
+    *   **Collections:** Created `JavaStreams` directory in `collections-practice`. Implemented various Stream API examples (File Copy, Serialization, Pipe, etc.) in `gcr-codebase/JavaStreams`.
+        *   [Browse Java Streams](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/JavaStreams)
 
 ---
 
