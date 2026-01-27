@@ -1,3 +1,4 @@
+
 # BridgeLabz-Training
 
 This log documents the daily progress of tasks completed during the BridgeLabz training program, identifying work done on each date with thematic headings and detailed summaries.
@@ -79,6 +80,8 @@ BridgeLabz-Training/
 |   |   +-- collections/
 |   |   |
 |   |   +-- JavaStreams/
+|   |   |
+|   |   +-- ExceptionHandling/
 |   |
 |   +-- scenario-based/ 
 |
@@ -221,11 +224,15 @@ BridgeLabz-Training/
 ---
 
 ## Week 7: Java Streams
-**Java Stream API & File Handling**
+**Java Stream API, File Handling & Exception Handling**
 
 *   **26-Jan-2026 (Monday):**
     *   **Collections:** Created `JavaStreams` directory in `collections-practice`. Implemented various Stream API examples (File Copy, Serialization, Pipe, etc.) in `gcr-codebase/JavaStreams`.
         *   [Browse Java Streams](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/JavaStreams)
+
+*   **27-Jan-2026 (Tuesday):**
+    *   **Exception Handling:** Created `ExceptionHandling` directory in `collections-practice`. Implemented various exception handling examples including `try-catch`, `finally`, `throw`, `throws`, Custom Exceptions (`InvalidAgeException`, `InsufficientBalanceException`), and Nested Try-Catch.
+        *   [Browse Exception Handling](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/ExceptionHandling)
 
 ---
 
