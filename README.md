@@ -234,6 +234,12 @@ BridgeLabz-Training/
     *   **Exception Handling:** Created `ExceptionHandling` directory in `collections-practice`. Implemented various exception handling examples including `try-catch`, `finally`, `throw`, `throws`, Custom Exceptions (`InvalidAgeException`, `InsufficientBalanceException`), and Nested Try-Catch.
         *   [Browse Exception Handling](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/ExceptionHandling)
 
+*   **28-Jan-2026 (Wednesday):**
+    *   **Core Java Scenarios:** Implemented `LexicalTwist` (String Vowels/Consonants Logic) and `CleanseAndInvert` (String Manipulation) in `scenario-based` folder.
+        *   [Browse Core Java Scenarios](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+    *   **Collections Scenarios:** Implemented `Restaurant` (HashMap & Exception Handling) and `BackupScheduler` (Priority Queue) in `scenario-based` folder.
+        *   [Browse Collection Scenarios](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based)
+
 ---
 
 ## Repository Info
