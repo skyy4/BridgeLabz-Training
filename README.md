@@ -7,7 +7,7 @@ This log documents the daily progress of tasks completed during the BridgeLabz t
 
 The repository is organized in a modular way.  
 
-Currently, all foundational Core Java work resides in the **core-java-practice** directory, OOPs practice work resides in the **oops-practice** directory,DSA practice work resides in the **dsa-practice** directory and review work resides in the **review** directory.
+Currently, all foundational Core Java work resides in the **core-java-practice** directory, OOPs practice work resides in the **oops-practice** directory, DSA practice work resides in the **dsa-practice** directory, collections practice work resides in the **collections-practice** directory and review work resides in the **review** directory.
 
 ```
 BridgeLabz-Training/
@@ -82,8 +82,12 @@ BridgeLabz-Training/
 |   |   +-- JavaStreams/
 |   |   |
 |   |   +-- ExceptionHandling/
+|   |   |
+|   |   +-- Regex/
+|   |   |
+|   |   +-- JUnit/
 |   |
-|   +-- scenario-based/ 
+|   +-- scenario-based/
 |
 -+-- review (Branch & Folder Name)
 |   |
