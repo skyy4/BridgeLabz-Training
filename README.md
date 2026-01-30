@@ -7,7 +7,7 @@ This log documents the daily progress of tasks completed during the BridgeLabz t
 
 The repository is organized in a modular way.  
 
-Currently, all foundational Core Java work resides in the **core-java-practice** directory, OOPs practice work resides in the **oops-practice** directory,DSA practice work resides in the **dsa-practice** directory and review work resides in the **review** directory.
+Currently, all foundational Core Java work resides in the **core-java-practice** directory, OOPs practice work resides in the **oops-practice** directory, DSA practice work resides in the **dsa-practice** directory, collections practice work resides in the **collections-practice** directory and review work resides in the **review** directory.
 
 ```
 BridgeLabz-Training/
@@ -82,8 +82,12 @@ BridgeLabz-Training/
 |   |   +-- JavaStreams/
 |   |   |
 |   |   +-- ExceptionHandling/
+|   |   |
+|   |   +-- Regex/
+|   |   |
+|   |   +-- JUnit/
 |   |
-|   +-- scenario-based/ 
+|   +-- scenario-based/
 |
 -+-- review (Branch & Folder Name)
 |   |
@@ -239,6 +243,13 @@ BridgeLabz-Training/
         *   [Browse Core Java Scenarios](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
     *   **Collections Scenarios:** Implemented `Restaurant` (HashMap & Exception Handling) and `BackupScheduler` (Priority Queue) in `scenario-based` folder.
         *   [Browse Collection Scenarios](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based)
+
+
+*   **30-Jan-2026 (Friday):**
+    *   **Regex:** Created `Regex` directory in `collections-practice`. Implemented `RegexPractice` covering username validation, email extraction, censoring, and other regex patterns.
+        *   [Browse Regex Practice](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/Regex)
+    *   **JUnit:** Created `JUnit` directory in `collections-practice` with Maven structure. Implemented and tested various classes: `Calculator`, `StringUtils`, `ListManager`, `DatabaseConnection`, `FileProcessor`, `EvenTest`, and `ExceptionTest`.
+        *   [Browse JUnit Practice](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/JUnit)
 
 ---
 
