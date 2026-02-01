@@ -251,6 +251,10 @@ BridgeLabz-Training/
     *   **JUnit:** Created `JUnit` directory in `collections-practice` with Maven structure. Implemented and tested various classes: `Calculator`, `StringUtils`, `ListManager`, `DatabaseConnection`, `FileProcessor`, `EvenTest`, and `ExceptionTest`.
         *   [Browse JUnit Practice](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/JUnit)
 
+*   **01-Feb-2026 (Sunday):**
+    *   **OOPS Scenarios:** Implemented **FutureLogistics** scenario-based problem involving `GoodsTransport`, `BrickTransport`, and `TimberTransport` with logic for vehicle selection and charge calculation.
+        *   [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
 ---
 
 ## Repository Info
