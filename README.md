@@ -7,7 +7,7 @@ This log documents the daily progress of tasks completed during the BridgeLabz t
 
 The repository is organized in a modular way.  
 
-Currently, all foundational Core Java work resides in the **core-java-practice** directory, OOPs practice work resides in the **oops-practice** directory, DSA practice work resides in the **dsa-practice** directory, collections practice work resides in the **collections-practice** directory and review work resides in the **review** directory.
+Currently, all foundational Core Java work resides in the **core-java-practice** directory, OOPs practice work resides in the **oops-practice** directory, DSA practice work resides in the **dsa-practice** directory, collections practice work resides in the **collections-practice** directory, IO programming work resides in the **IOprogramming-practice** directory, and review work resides in the **review** directory.
 
 ```
 BridgeLabz-Training/
@@ -86,6 +86,16 @@ BridgeLabz-Training/
 |   |   +-- Regex/
 |   |   |
 |   |   +-- JUnit/
+|   |
+|   +-- scenario-based/
+|
+-+-- IOprogramming-practice/(Branch & Folder Name)
+|   |
+|   +-- gcr-codebase/
+|   |   |
+|   |   +-- CSVdatahandling/
+|   |   |
+|   |   +-- JSONdata/
 |   |
 |   +-- scenario-based/
 |
@@ -255,6 +265,17 @@ BridgeLabz-Training/
     *   **OOPS Scenarios:** Implemented **FutureLogistics** scenario-based problem involving `GoodsTransport`, `BrickTransport`, and `TimberTransport` with logic for vehicle selection and charge calculation.
         *   [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
 
+*   **02-Feb-2026 (Monday):**
+    *   **Collections Scenarios:** Implemented **StreamBuzz** scenario-based problem (Creator Stats).
+        *   [Browse StreamBuzz](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/StreamBuzz)
+    *   **Reflection:** Implemented 12 Reflection API examples in `collections-practice` covering methods, fields, dynamic proxy, and dependency injection.
+        *   [Browse Reflection Examples](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/Reflection)
+    *   **Annotations:** Implemented 12 Annotation examples including `@Override`, `@Deprecated`, `@SuppressWarnings`, and custom annotations like `@Loggable` and `@Priority`.
+        *   [Browse Annotation Examples](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/Annotations)
+    *   **IO Programming:** Created `IOprogramming-practice` branch. Implemented **CSV Data Handling** (12 examples) and **JSON Data Handling** (9 examples) involving reading, writing, filtering, and masking data.
+        *   [Browse CSV Examples](https://github.com/skyy4/BridgeLabz-Training/tree/IOprogramming-practice/IOprogramming-practice/gcr-codebase/CSVdatahandling)
+        *   [Browse JSON Examples](https://github.com/skyy4/BridgeLabz-Training/tree/IOprogramming-practice/IOprogramming-practice/gcr-codebase/JSONdata)
+
 ---
 
 ## Repository Info
@@ -264,3 +285,4 @@ BridgeLabz-Training/
 1.  **Clone:** `git clone https://github.com/skyy4/BridgeLabs-Training.git`
 2.  **Navigate:** Go to the specific directory (e.g., `core-java-practice/gcr-codebase/control-flow`).
 3.  **Compile & Run:** `javac Filename.java && java Filename`
+
