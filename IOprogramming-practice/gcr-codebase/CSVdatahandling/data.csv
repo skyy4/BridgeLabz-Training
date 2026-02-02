@@ -1,0 +1,5 @@
+ID,Name,Email,Phone
+1,John,john@test.com,1234567890
+2,Jane,jane_invalid,9876543210
+3,Bob,bob@test.com,111
+1,Duplicate,d@test.com,0000000000
