@@ -288,7 +288,7 @@ BridgeLabz-Training/
     *   **DSA Scenarios:** Implemented **RobotAuditSystem** (Custom Exceptions) and **FlightManagementSystem** (Exception Handling) in `scenario-based` folder.
         *   [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based)
     *   **Java 8 Features:** Created `java8-feature-pratice` branch. Implemented 10 **Stream API** examples including `TopMovies`, `DoctorAvailability`, `InsuranceClaims`, etc. in `gcr-codebase/StreamAPI`.
-        *   [Browse Stream API](https://github.com/skyy4/BridgeLabz-Training/tree/java8-feature-pratice/java8-feature-pratice/gcr-codebase/StreamAPI)
+        *   [Browse Stream API](https://github.com/skyy4/BridgeLabz-Training/tree/java8-features-practice/java8-features-pratice/gcr-codebase/StreamAPI)
 
 ---
 
