@@ -276,6 +276,10 @@ BridgeLabz-Training/
         *   [Browse CSV Examples](https://github.com/skyy4/BridgeLabz-Training/tree/IOprogramming-practice/IOprogramming-practice/gcr-codebase/CSVdatahandling)
         *   [Browse JSON Examples](https://github.com/skyy4/BridgeLabz-Training/tree/IOprogramming-practice/IOprogramming-practice/gcr-codebase/JSONdata)
 
+*   **03-Feb-2026 (Tuesday):**
+    *   **DSA Scenarios:** Implemented **RobotAuditSystem** (Custom Exceptions) and **FlightManagementSystem** (Exception Handling) in `scenario-based` folder.
+        *   [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based)
+
 ---
 
 ## Repository Info
