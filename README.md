@@ -288,7 +288,12 @@ BridgeLabz-Training/
     *   **DSA Scenarios:** Implemented **RobotAuditSystem** (Custom Exceptions) and **FlightManagementSystem** (Exception Handling) in `scenario-based` folder.
         *   [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based)
     *   **Java 8 Features:** Created `java8-feature-pratice` branch. Implemented 10 **Stream API** examples including `TopMovies`, `DoctorAvailability`, `InsuranceClaims`, etc. in `gcr-codebase/StreamAPI`.
-        *   [Browse Stream API](https://github.com/skyy4/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/StreamAPI)
+    *   [Browse Stream API](https://github.com/skyy4/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/StreamAPI)
+
+*   **04-Feb-2026 (Wednesday):**
+    *   **Java 8 Features:** Implemented **Lambda Expressions** examples including `SmartLight`, `ShopSort`, `AlertFilter`, etc. in `LambdaExpressions` directory. Also implemented 13 **Functional Interface** examples covering custom interfaces, static/default methods, and marker interfaces in `FunctionalInterface` directory.
+        *   [Browse Lambda Expressions](https://github.com/skyy4/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/LambdaExpressions)
+        *   [Browse Functional Interfaces](https://github.com/skyy4/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/FunctionalInterface)
 
 ---
 
