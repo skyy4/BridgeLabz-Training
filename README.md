@@ -108,6 +108,8 @@ BridgeLabz-Training/
 |   |   +-- LambdaExpressions/
 |   |   |
 |   |   +-- FunctionalInterface/
+|   |   |
+|   |   +-- Collectors/
 |   |
 |   +-- scenario-based/
 |
@@ -299,6 +301,12 @@ BridgeLabz-Training/
         *   [Browse Lambda Expressions](https://github.com/skyy4/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/LambdaExpressions)
         *   [Browse Functional Interfaces](https://github.com/skyy4/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/FunctionalInterface)
 
+*   **05-Feb-2026 (Thursday):**
+    *   **Java 8 Features:** Implemented **Collectors** examples including `StudentGroup` (Grouping & Mapping), `WordFreq` (Counting), `OrderSum` (Summing), `AvgSalary` (Averaging), and `BookStats` (Summarizing) in `gcr-codebase/Collectors`.
+        *   [Browse Collectors](https://github.com/skyy4/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/Collectors)
+    *   **Collections Scenarios:** Implemented **FoodDeliverySystem** (Queue), **ClassroomAttendance** (Set), **LeaveManagement** (Map), and **MusicPlaylist** (LinkedList & Stack) in `scenario-based` folder.
+        *   [Browse Collections Scenarios](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based)
+
 ---
 
 ## Repository Info
@@ -308,4 +316,5 @@ BridgeLabz-Training/
 1.  **Clone:** `git clone https://github.com/skyy4/BridgeLabs-Training.git`
 2.  **Navigate:** Go to the specific directory (e.g., `core-java-practice/gcr-codebase/control-flow`).
 3.  **Compile & Run:** `javac Filename.java && java Filename`
+
 
