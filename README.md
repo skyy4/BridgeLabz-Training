@@ -279,6 +279,9 @@ BridgeLabz-Training/
     *   **OOPS Scenarios:** Implemented **FutureLogistics** scenario-based problem involving `GoodsTransport`, `BrickTransport`, and `TimberTransport` with logic for vehicle selection and charge calculation.
         *   [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
 
+## Week 8: Advanced Collections & Scenarios
+**Custom Scenarios & Performance Tracking**
+
 *   **02-Feb-2026 (Monday):**
     *   **Collections Scenarios:** Implemented **StreamBuzz** scenario-based problem (Creator Stats).
         *   [Browse StreamBuzz](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/StreamBuzz)
@@ -306,6 +309,11 @@ BridgeLabz-Training/
         *   [Browse Collectors](https://github.com/skyy4/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/Collectors)
     *   **Collections Scenarios:** Implemented **FoodDeliverySystem** (Queue), **ClassroomAttendance** (Set), **LeaveManagement** (Map), and **MusicPlaylist** (LinkedList & Stack) in `scenario-based` folder.
         *   [Browse Collections Scenarios](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based)
+
+
+*   **07-Feb-2026 (Saturday):**
+    *   **Collections Scenarios:** Implemented **VesselNavigation** scenario-based problem involving `Vessel`, `VesselUtil`, and `UserInterface` for tracking vessel performance.
+        *   [Browse Vessel Navigation](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/VesselNavigation)
 
 ---
 
