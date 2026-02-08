@@ -1,4 +1,3 @@
-package scenario-based.EnergyMonitoringSystem;
 
 import java.time.LocalDate;
 

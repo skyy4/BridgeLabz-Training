@@ -1,4 +1,3 @@
-package scenario-based.AuctionSystem;
 
 import java.util.TreeMap;
 

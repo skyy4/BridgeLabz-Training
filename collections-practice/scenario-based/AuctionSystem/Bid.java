@@ -1,4 +1,3 @@
-package scenario-based.AuctionSystem;
 
 public class Bid {
     private double amount;

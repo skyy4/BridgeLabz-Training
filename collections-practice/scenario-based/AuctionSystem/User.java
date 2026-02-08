@@ -1,4 +1,3 @@
-package scenario-based.AuctionSystem;
 
 public class User implements Comparable<User> {
     private String name;

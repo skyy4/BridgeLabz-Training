@@ -1,4 +1,3 @@
-package scenario-based.EnergyMonitoringSystem;
 
 public class InvalidEnergyReadingException extends Exception {
     public InvalidEnergyReadingException(String msg) {
