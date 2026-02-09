@@ -1,3 +1,5 @@
+package ExceptionHandling;
+
 import java.io.*;
 
 public class ReadFirstLine {

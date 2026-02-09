@@ -18,6 +18,7 @@ class Employee implements Serializable {
 
 public class SerializeEmp {
 
+    @SuppressWarnings("unchecked")
     public static void main(String[] args) {
         try {
             List<Employee> l = new ArrayList<>();

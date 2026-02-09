@@ -1,3 +1,5 @@
+package ExceptionHandling;
+
 public class Interest {
 
     static double calc(double amt, double rate, int y)

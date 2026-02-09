@@ -1,3 +1,5 @@
+package Annotations;
+
 class LegacyCode {
     @Deprecated
     void o() {

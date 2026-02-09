@@ -1,7 +1,9 @@
+package ExceptionHandling;
+
 public class Propagate {
 
     static void m1() {
-        int a = 10 / 0;
+        System.out.println(10 / 0);
     }
 
     static void m2() {

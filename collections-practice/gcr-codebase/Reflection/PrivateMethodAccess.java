@@ -1,6 +1,9 @@
+package Reflection;
+
 import java.lang.reflect.*;
 
 class CalculatorC {
+    @SuppressWarnings("unused")
     private int mul(int a, int b) {
         return a * b;
     }

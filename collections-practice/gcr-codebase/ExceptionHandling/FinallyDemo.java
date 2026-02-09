@@ -1,3 +1,5 @@
+package ExceptionHandling;
+
 import java.util.*;
 
 public class FinallyDemo {
@@ -11,6 +13,7 @@ public class FinallyDemo {
             System.out.println("Division by zero");
         } finally {
             System.out.println("Operation completed");
+            sc.close();
         }
     }
 }

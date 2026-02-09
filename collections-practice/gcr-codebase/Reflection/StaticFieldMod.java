@@ -1,6 +1,9 @@
+package Reflection;
+
 import java.lang.reflect.*;
 
 class Config {
+    @SuppressWarnings("unused")
     private static String key = "OLD";
 }
 

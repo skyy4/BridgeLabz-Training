@@ -1,3 +1,5 @@
+package Reflection;
+
 import java.lang.reflect.*;
 import java.util.*;
 
@@ -19,5 +21,6 @@ public class ReflectionMethod {
         System.out.println("Constructors:");
         for (Constructor<?> k : c.getDeclaredConstructors())
             System.out.println(k.getName());
+        s.close();
     }
 }

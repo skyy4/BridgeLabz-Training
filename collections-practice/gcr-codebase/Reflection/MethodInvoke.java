@@ -1,3 +1,5 @@
+package Reflection;
+
 import java.lang.reflect.*;
 import java.util.*;
 
@@ -22,5 +24,6 @@ public class MethodInvoke {
         String n = s.nextLine();
         Method m = MathM.class.getMethod(n, int.class, int.class);
         System.out.println("Result: " + m.invoke(new MathM(), 6, 2));
+        s.close();
     }
 }

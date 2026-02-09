@@ -1,6 +1,9 @@
+package Reflection;
+
 import java.lang.reflect.*;
 
 class PersonP {
+    @SuppressWarnings("unused")
     private int age;
 }
 

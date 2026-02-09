@@ -1,3 +1,5 @@
+package ExceptionHandling;
+
 import java.util.*;
 
 public class Divide {
@@ -11,6 +13,8 @@ public class Divide {
             System.out.println("Division by zero");
         } catch (InputMismatchException e) {
             System.out.println("Enter numbers only");
+        } finally {
+            sc.close();
         }
     }
 }

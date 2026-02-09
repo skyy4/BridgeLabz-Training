@@ -1,4 +1,5 @@
-import java.lang.reflect.*;
+package Reflection;
+
 
 class StudentS {
     String n = "Tom";
@@ -16,7 +17,6 @@ public class InstanceByName {
         // not in default package.
         // We will assume default package behavior or use getName() for safety in demo.
 
-        Class<?> c = StudentS.class; // Using class literal to ensure we get the right name for demo
         // Or if aiming to use string:
         // Class<?> c = Class.forName("StudentS"); // This requires StudentS to be
         // findable by name.

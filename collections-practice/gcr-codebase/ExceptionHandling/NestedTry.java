@@ -1,3 +1,5 @@
+package ExceptionHandling;
+
 public class NestedTry {
     public static void main(String[] args) {
         int[] a = { 10, 20, 30 };

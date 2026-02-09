@@ -1,3 +1,5 @@
+package Annotations;
+
 class Parent {
     void s() {
         System.out.println("Animal");

@@ -1,3 +1,5 @@
+package ExceptionHandling;
+
 import java.util.*;
 
 class InvalidAgeException extends Exception {
@@ -18,6 +20,8 @@ public class AgeCheck {
             System.out.println("Access granted!");
         } catch (InvalidAgeException e) {
             System.out.println("Age must be 18 or above");
+        } finally {
+            sc.close();
         }
     }
 }

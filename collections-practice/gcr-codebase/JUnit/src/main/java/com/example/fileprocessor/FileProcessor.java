@@ -12,6 +12,8 @@ public class FileProcessor {
 
     public String readFromFile(String f) throws IOException {
         BufferedReader br = new BufferedReader(new FileReader(f));
-        return br.readLine();
+        String line = br.readLine();
+        br.close();
+        return line;
     }
 }
