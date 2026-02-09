@@ -4,3 +4,13 @@
 # Ignore OS files
 .DS_Store
 /.metadata/
+
+# Ignore IDE files
+.classpath
+.project
+.settings/
+.vscode/
+bin/
+
+# Ignore Maven build directory
+target/
