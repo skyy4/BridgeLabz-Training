@@ -7,7 +7,7 @@ This log documents the daily progress of tasks completed during the BridgeLabz t
 
 The repository is organized in a modular way.  
 
-Currently, all foundational Core Java work resides in the **core-java-practice** directory, OOPs practice work resides in the **oops-practice** directory, DSA practice work resides in the **dsa-practice** directory, collections practice work resides in the **collections-practice** directory, IO programming work resides in the **IOprogramming-practice** directory, Java 8 Features work resides in the **java8-features-practice** directory, and review work resides in the **review** directory.
+Currently, all foundational Core Java work resides in the **core-java-practice** directory, OOPs practice work resides in the **oops-practice** directory, DSA practice work resides in the **dsa-practice** directory, collections practice work resides in the **collections-practice** directory, IO programming work resides in the **IOprogramming-practice** directory, Java 8 Features work resides in the **java8-features-practice** directory, solution designing work resides in the **solution-designing-practice** directory, multithreading practice work resides in the **multithreading-practice** directory, and review work resides in the **review** directory.
 
 ```
 BridgeLabz-Training/
@@ -112,6 +112,16 @@ BridgeLabz-Training/
 |   |   +-- Collectors/
 |   |
 |   +-- scenario-based/
+|
+-+-- solution-designing-practice/(Branch & Folder Name)
+|   |
+|   +-- gcr-codebase/
+|   |   |
+|   |   +-- LibraryManagementSystem/
+|
+-+-- multithreading-practice/(Branch & Folder Name)
+|   |
+|   +-- gcr-codebase/
 |
 -+-- review (Branch & Folder Name)
 |   |
@@ -314,6 +324,22 @@ BridgeLabz-Training/
 *   **07-Feb-2026 (Saturday):**
     *   **Collections Scenarios:** Implemented **VesselNavigation** scenario-based problem involving `Vessel`, `VesselUtil`, and `UserInterface` for tracking vessel performance.
         *   [Browse Vessel Navigation](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/VesselNavigation)
+
+*   **08-Feb-2026 (Sunday):**
+    *   **Solution Designing:** Implemented **LibraryManagementSystem** involving `LibraryCatalog`, `UserFactory`, and Observer pattern for managing books and users.
+        *   [Browse Library Management System](https://github.com/skyy4/BridgeLabz-Training/tree/solution-designing-practice/solution-designing-practice/gcr-codebase/LibraryManagementSystem)
+    *   **Multithreading:** Implemented various concurrent systems including:
+        *   **BankSystem:** Concurrent transaction handling.
+        *   **Restaurant:** Producer-Consumer problem implementation.
+        *   **DownloadManager:** Multi-threaded file downloading.
+        *   **PrintShop:** Job scheduling simulation.
+        *   **ThreadStateMonitor:** Thread lifecycle monitoring.
+        *   [Browse Multithreading Practice](https://github.com/skyy4/BridgeLabz-Training/tree/multithreading-practice/multithreading-practice/gcr-codebase)
+    *   **Collections Scenarios:** Implemented **AuctionSystem** (Custom Exceptions) and **EnergyMonitoringSystem** (Monitoring & Alerts) in `scenario-based` folder.
+        *   [Browse Auction System](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/AuctionSystem)
+        *   [Browse Energy Monitoring System](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/EnergyMonitoringSystem)
+    *   **Code Quality:** Applied SonarQube analysis and improvements to **AddressBook** (OOPs Practice).
+        *   [Browse AddressBook](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/AddressBook)
 
 ---
 
