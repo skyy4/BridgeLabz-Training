@@ -1,4 +1,5 @@
 
+
 # BridgeLabz-Training
 
 This log documents the daily progress of tasks completed during the BridgeLabz training program, identifying work done on each date with thematic headings and detailed summaries.
@@ -122,6 +123,12 @@ BridgeLabz-Training/
 -+-- multithreading-practice/(Branch & Folder Name)
 |   |
 |   +-- gcr-codebase/
+|
+-+-- jdbc-dbms-practice/(Branch & Folder Name)
+|   |
+|   +-- gcr-codebase/
+|   |   |
+|   |   +-- HealthClinicApp/
 |
 -+-- review (Branch & Folder Name)
 |   |
@@ -340,6 +347,16 @@ BridgeLabz-Training/
         *   [Browse Energy Monitoring System](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/EnergyMonitoringSystem)
     *   **Code Quality:** Applied SonarQube analysis and improvements to **AddressBook** (OOPs Practice).
         *   [Browse AddressBook](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/AddressBook)
+
+## Week 9: JDBC, DBMS & Advanced Collections
+**Database Connectivity & Real-world Scenarios**
+
+*   **09-Feb-2026 (Monday):**
+    *   **JDBC & DBMS:** Created `jdbc-dbms-practice` branch. Refactored `HealthClinicApp` project structure. Implemented "View All Patients" feature.
+    *   **Collections Scenarios:** Implemented `JobPortal` (Custom Exceptions), `EventAnalyzer` (Streams & Maps), and `BankAccount` (JUnit Testing) in `scenario-based` folder.
+        *   [Browse JobPortal](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/JobPortal)
+        *   [Browse EventAnalyzer](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/EventAnalyzer)
+        *   [Browse BankAccount](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/BankAccountTesting)
 
 ---
 
