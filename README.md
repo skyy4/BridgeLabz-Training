@@ -353,6 +353,7 @@ BridgeLabz-Training/
 
 *   **09-Feb-2026 (Monday):**
     *   **JDBC & DBMS:** Created `jdbc-dbms-practice` branch. Refactored `HealthClinicApp` project structure. Implemented "View All Patients" feature.
+        *   [Browse HealthClinicApp](https://github.com/skyy4/BridgeLabz-Training/tree/jdbc-dbms-practice/jdbc-dbms-practice/gcr-codebase/HealthClinicApp)
     *   **Collections Scenarios:** Implemented `JobPortal` (Custom Exceptions), `EventAnalyzer` (Streams & Maps), and `BankAccount` (JUnit Testing) in `scenario-based` folder.
         *   [Browse JobPortal](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/JobPortal)
         *   [Browse EventAnalyzer](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/EventAnalyzer)
