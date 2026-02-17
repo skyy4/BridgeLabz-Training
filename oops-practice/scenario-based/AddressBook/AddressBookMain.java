@@ -18,7 +18,7 @@ public class AddressBookMain {
 
         while (true) {
             System.out.println(
-                    "\n1 Add 2 Edit 3 Delete 4 View 5 Sort 6 Search 7 Count 0 Exit");
+                    "\n1 Add 2 Edit 3 Delete 4 View 5 Sort 6 Search 7 Count 8 FileIO 0 Exit");
             int n = sc.nextInt();
             sc.nextLine();
 
@@ -79,9 +79,17 @@ public class AddressBookMain {
                         .forEach(System.out::println);
             }
 
-            // UC10
+            // UC10 & UC11: Sort
             if (n == 5) {
-                ser.sortByName("MainBook");
+                System.out.println("1. Name 2. City 3. State 4. Zip");
+                int sortChoice = sc.nextInt();
+                sc.nextLine();
+                switch (sortChoice) {
+                    case 1: ser.sortByName("MainBook"); break;
+                    case 2: ser.sortByCity("MainBook"); break;
+                    case 3: ser.sortByState("MainBook"); break;
+                    case 4: ser.sortByZip("MainBook"); break;
+                }
                 System.out.println("Sorted");
             }
 
@@ -94,6 +102,25 @@ public class AddressBookMain {
             // UC9
             if (n == 7) {
                 ser.countByCityState();
+            }
+
+            // UC12, UC13, UC14, UC15, UC16, UC18: File IO & Server & DB
+            if (n == 8) {
+                System.out.println("1. Text Write 2. Text Read 3. CSV Write 4. CSV Read 5. JSON Write 6. JSON Read 7. Server Write 8. Server Read 9. DB Write 10. DB Read");
+                int ioChoice = sc.nextInt();
+                sc.nextLine();
+                switch (ioChoice) {
+                    case 1: ser.writeData("MainBook"); break;
+                    case 2: ser.readData(); break;
+                    case 3: ser.writeCSV("MainBook"); break;
+                    case 4: ser.readCSV(); break;
+                    case 5: ser.writeJSON("MainBook"); break;
+                    case 6: ser.readJSON(); break;
+                    case 7: ser.writeToJSONServer("MainBook"); break;
+                    case 8: ser.readFromJSONServer(); break;
+                    case 9: ser.writeToDB("MainBook"); break;
+                    case 10: ser.readFromDB(); break;
+                }
             }
         }
         sc.close();

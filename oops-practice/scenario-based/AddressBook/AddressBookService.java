@@ -62,8 +62,88 @@ public class AddressBookService {
         map.forEach((k, v) -> System.out.println(k + " : " + v));
     }
 
+    AddressBookFileIOService fileIO = new AddressBookFileIOService();
+
+    // UC11: Sort by City
+    public void sortByCity(String book) {
+        ArrayList<Contact> list = dao.getBook(book);
+        Collections.sort(list, (a, b) -> a.getCity().compareToIgnoreCase(b.getCity()));
+    }
+
+    // UC11: Sort by State
+    public void sortByState(String book) {
+        ArrayList<Contact> list = dao.getBook(book);
+        Collections.sort(list, (a, b) -> a.getState().compareToIgnoreCase(b.getState()));
+    }
+
+    // UC11: Sort by Zip
+    public void sortByZip(String book) {
+        ArrayList<Contact> list = dao.getBook(book);
+        Collections.sort(list, (a, b) -> a.getZip().compareToIgnoreCase(b.getZip()));
+    }
+
+    // UC12: File IO
+    public void writeData(String book) {
+        new Thread(() -> {
+            fileIO.writeData(dao.getBook(book));
+        }).start();
+    }
+
+    public void readData() {
+        fileIO.readData();
+    }
+
+    // UC13: CSV IO
+    public void writeCSV(String book) {
+        new Thread(() -> {
+            fileIO.writeCSV(dao.getBook(book));
+        }).start();
+    }
+
+    public void readCSV() {
+        fileIO.readCSV();
+    }
+
+    // UC14: JSON IO
+    public void writeJSON(String book) {
+        new Thread(() -> {
+            fileIO.writeJSON(dao.getBook(book));
+        }).start();
+    }
+
+    public void readJSON() {
+        fileIO.readJSON();
+    }
+
+    AddressBookHttpService httpService = new AddressBookHttpService();
+
+    // UC15 & UC16: JSON Server
+    public void readFromJSONServer() {
+        httpService.readData();
+    }
+
+    public void writeToJSONServer(String book) {
+        new Thread(() -> {
+            httpService.writeData(dao.getBook(book));
+        }).start();
+    }
+
+    AddressBookDBService dbService = new AddressBookDBService();
+
+    // UC18: Database Integration
+    public void readFromDB() {
+        dbService.readData();
+    }
+
+    public void writeToDB(String book) {
+        new Thread(() -> {
+            dbService.writeData(dao.getBook(book));
+        }).start();
+    }
+
     // UC4: View all contacts
     public ArrayList<Contact> getContacts(String book) {
         return dao.getBook(book);
     }
+
 }

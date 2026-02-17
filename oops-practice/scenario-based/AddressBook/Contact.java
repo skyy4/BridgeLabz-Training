@@ -8,6 +8,7 @@ import java.util.Objects;
 // UC10: Display contact details
 public class Contact {
 
+    private int id;
     private String fname;
     private String lname;
     private String addr;
@@ -16,6 +17,9 @@ public class Contact {
     private String zip;
     private String phone;
     private String mail;
+
+    public int getId() { return id; }
+    public void setId(int id) { this.id = id; }
 
     public Contact(String fname, String lname, String addr, String city,
             String state, String zip, String phone, String mail) {
@@ -41,12 +45,32 @@ public class Contact {
         return state;
     }
 
+    public String getZip() {
+        return zip;
+    }
+
     public void setPhone(String phone) {
         this.phone = phone;
     }
 
     public void setMail(String mail) {
         this.mail = mail;
+    }
+
+    public String getLname() {
+        return lname;
+    }
+
+    public String getAddr() {
+        return addr;
+    }
+
+    public String getPhone() {
+        return phone;
+    }
+
+    public String getMail() {
+        return mail;
     }
 
     // UC7: Override equals to avoid duplicate by name
@@ -68,6 +92,6 @@ public class Contact {
     // UC10: Used while printing
     @Override
     public String toString() {
-        return fname + " " + lname + " | " + city + " | " + state + " | " + phone;
+        return fname + " " + lname + " | " + city + " | " + state + " | " + zip + " | " + phone;
     }
 }
