@@ -1,5 +1,6 @@
 
 
+
 # BridgeLabz-Training
 
 This log documents the daily progress of tasks completed during the BridgeLabz training program, identifying work done on each date with thematic headings and detailed summaries.
@@ -367,6 +368,23 @@ BridgeLabz-Training/
 ### How to Run
 1.  **Clone:** `git clone https://github.com/skyy4/BridgeLabs-Training.git`
 2.  **Navigate:** Go to the specific directory (e.g., `core-java-practice/gcr-codebase/control-flow`).
-3.  **Compile & Run:** `javac Filename.java && java Filename`
+
+---
+
+## Week 10: Advanced Scenarios & System Design
+**Employee Wage & Address Book Enhancements**
+
+*   **16-Feb-2026 (Sunday):**
+    *   **Scenario-Based:** Worked on **Employee Wage** computation problem involving procedural and object-oriented approaches.
+
+*   **17-Feb-2026 (Monday):**
+    *   **Address Book System:** Implemented advanced features (UC11-UC18) for the **AddressBook** system in `oops-practice/scenario-based`:
+        *   **Sorting:** Added functionality to sort contacts by City, State, and Zip code.
+        *   **File IO:** Implemented manual Read/Write operations for **Text (.txt)**, **CSV (.csv)**, and **JSON (.json)** files without external libraries.
+        *   **JSON Server:** Integrated with a local JSON Server using Java's `HttpClient` for RESTful operations (GET/POST).
+        *   **Database:** Implemented JDBC connectivity to MySQL for persistent storage of contact details.
+        *   **Multi-threading:** Refactored all IO operations to execute in separate threads for non-blocking UI.
+        *   [Browse Address Book](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/AddressBook)
+
 
 
