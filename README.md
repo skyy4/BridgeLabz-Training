@@ -360,16 +360,6 @@ BridgeLabz-Training/
         *   [Browse EventAnalyzer](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/EventAnalyzer)
         *   [Browse BankAccount](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/BankAccountTesting)
 
----
-
-## Repository Info
-**GitHub:** [https://github.com/skyy4/BridgeLabs-Training](https://github.com/skyy4/BridgeLabs-Training)
-
-### How to Run
-1.  **Clone:** `git clone https://github.com/skyy4/BridgeLabs-Training.git`
-2.  **Navigate:** Go to the specific directory (e.g., `core-java-practice/gcr-codebase/control-flow`).
-
----
 
 ## Week 10: Advanced Scenarios & System Design
 **Employee Wage & Address Book Enhancements**
@@ -386,5 +376,15 @@ BridgeLabz-Training/
         *   **Multi-threading:** Refactored all IO operations to execute in separate threads for non-blocking UI.
         *   [Browse Address Book](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/AddressBook)
 
+---
+
+## Repository Info
+**GitHub:** [https://github.com/skyy4/BridgeLabs-Training](https://github.com/skyy4/BridgeLabs-Training)
+
+### How to Run
+1.  **Clone:** `git clone https://github.com/skyy4/BridgeLabs-Training.git`
+2.  **Navigate:** Go to the specific directory (e.g., `core-java-practice/gcr-codebase/control-flow`).
+
+---
 
 
