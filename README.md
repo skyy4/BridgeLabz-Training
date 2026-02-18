@@ -1,1 +1,392 @@
 
+
+
+
+# BridgeLabz-Training
+
+This log documents the daily progress of tasks completed during the BridgeLabz training program, identifying work done on each date with thematic headings and detailed summaries.
+
+## Folder Structure
+
+The repository is organized in a modular way.  
+
+Currently, all foundational Core Java work resides in the **core-java-practice** directory, OOPs practice work resides in the **oops-practice** directory, DSA practice work resides in the **dsa-practice** directory, collections practice work resides in the **collections-practice** directory, IO programming work resides in the **IOprogramming-practice** directory, Java 8 Features work resides in the **java8-features-practice** directory, solution designing work resides in the **solution-designing-practice** directory, multithreading practice work resides in the **multithreading-practice** directory, and review work resides in the **review** directory.
+
+```
+BridgeLabz-Training/
+|
+-+-- core-java-practice/(Branch & Folder Name)
+|   |
+|   +-- gcr-codebase/
+|   |   |
+|   |   +-- programming-elements/
+|   |   |
+|   |   +-- control-flow/
+|   |   |
+|   |   +-- arrays/
+|   |   |
+|   |   +-- strings/
+|   |   |
+|   |   +-- methods/
+|   |   |
+|   |   +-- extra/
+|   |
+|   +-- leet-code-codebase/
+|   |
+|   +-- scenario-based/
+|
+-+-- oops-practice/(Branch & Folder Name)
+|   |
+|   +-- gcr-codebase/
+|   |   |
+|   |   +-- classes-and-object/
+|   |   |
+|   |   +-- constructors-variables-access/
+|   |   |
+|   |   +-- static-this-final-instanceof/
+|   |   |
+|   |   +-- object-oriented-design/
+|   |   |
+|   |   +-- inheritance-polymorphism/
+|   |   |
+|   |   +-- encapsulation-polymorphism/
+|   |
+|   +-- leetcode-codebase/
+|   |
+|   +-- scenario-based/
+|
+-+-- dsa-practice/(Branch & Folder Name)
+|   |
+|   +-- gcr-codebase/
+|   |   |
+|   |   +-- linkedlist/
+|   |   |
+|   |   +-- Stack & Queue/
+|   |   |
+|   |   +-- Hashmap/
+|   |   |
+|   |   +-- SortingAlgorithm/
+|   |   |
+|   |   +-- StringAndLinearBinarySearch/
+|   |   |
+|   |   +-- RuntimeAnalysisAndBigONotation/
+|   |
+|   +-- scenario-based/
+|
+|
+-+-- collections-practice/(Branch & Folder Name)
+|   |
+|   +-- gcr-codebase/
+|   |   |
+|   |   +-- JavaGenerics/
+|   |   |
+|   |   +-- collections/
+|   |   |
+|   |   +-- JavaStreams/
+|   |   |
+|   |   +-- ExceptionHandling/
+|   |   |
+|   |   +-- Regex/
+|   |   |
+|   |   +-- JUnit/
+|   |
+|   +-- scenario-based/
+|
+-+-- IOprogramming-practice/(Branch & Folder Name)
+|   |
+|   +-- gcr-codebase/
+|   |   |
+|   |   +-- CSVdatahandling/
+|   |   |
+|   |   +-- JSONdata/
+|   |
+|   +-- scenario-based/
+|
+-+-- java8-features-practice/(Branch & Folder Name)
+|   |
+|   +-- gcr-codebase/
+|   |   |
+|   |   +-- StreamAPI/
+|   |   |
+|   |   +-- LambdaExpressions/
+|   |   |
+|   |   +-- FunctionalInterface/
+|   |   |
+|   |   +-- Collectors/
+|   |
+|   +-- scenario-based/
+|
+-+-- solution-designing-practice/(Branch & Folder Name)
+|   |
+|   +-- gcr-codebase/
+|   |   |
+|   |   +-- LibraryManagementSystem/
+|
+-+-- multithreading-practice/(Branch & Folder Name)
+|   |
+|   +-- gcr-codebase/
+|
+-+-- jdbc-dbms-practice/(Branch & Folder Name)
+|   |
+|   +-- gcr-codebase/
+|   |   |
+|   |   +-- HealthClinicApp/
+|
+-+-- review (Branch & Folder Name)
+|   |
+-+-- README.md
+```
+
+## Week 1: Foundation & Fundamentals
+**Git, Java Basics, Control Flow & Arrays**
+
+*   **16-Dec-2024 (Monday):** Created GitHub repository and learned basic Git commands (`add`, `commit`, `push`). Understood version control, branching, and repository structure. Solved basic **LeetCode** problems (Armstrong, Fibonacci, Palindrome, Reverse Integer).
+    *   [Browse LeetCode solutions](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
+
+*   **17-Dec-2024 (Tuesday):** Practiced Git Bash workflow and commands. Started **Core Java Programming Elements**, solving 20+ basic programs (calculations, conversions, formulas).
+
+*   **18-Dec-2024 (Wednesday):** Continued **Programming Elements** with advanced operations, user input handling, and logical expressions.
+    *   [Browse Programming Elements](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)
+
+*   **19-Dec-2024 (Thursday):** Mastered **Control Flow Statements** (if-else, switch, loops). Implemented 30+ programs covering conditionals, loops (for/while/do-while), and advanced number logic (Prime, Factorial, FizzBuzz).
+    *   [Browse Control Flow programs](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)
+
+*   **20-Dec-2024 (Friday):** Studied **Arrays** (1D & 2D). Solved problems on array operations (sorting, reversing, matrix manipulation). Implemented initial **Scenario-Based** problems (BMI Tracker, Coffee Counter).
+    *   [Browse Array programs](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)
+    *   [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+
+---
+
+## Week 2: Strings, Scenarios & Methods
+**String Manipulation, Practical Systems & Reusability**
+
+*   **22-Dec-2024 (Monday):** Studied **Strings** in depth. Solved problems on immutability, substring slicing, searching, comparison, and `StringBuilder` usage.
+    *   [Browse String programs](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
+
+*   **23-Dec-2024 (Tuesday):** Worked on **Scenario-Based Questions** including Election Booth and Metro Smart Card systems.
+    *   [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+
+*   **24-Dec-2024 (Wednesday):** Focused on **Methods** and modular programming. Implemented 30+ method-based solutions for varied calculators, converters, and utilities.
+    *   [Browse Method programs](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)
+
+*   **26-Dec-2024 (Friday):** Advanced **String** practice (regex, pattern matching). Solved **Extra Practice** problems (Math, Date/Time). Implemented Bus Route and Lucky Draw system scenarios.
+    *   [Browse String programs](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)
+    *   [Browse Extra practice programs](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extra)
+
+---
+
+## Week 3: Advanced OOPs & System Design
+**Object-Oriented Programming, Design Principles & Complex Scenarios**
+
+*   **29-Dec-2024 (Monday):** Solved complex **Scenario-Based Problems**: Employee Wage, Line Comparison, DigiWatch, FitTrack, LibFine, and MovieBook systems.
+    *   [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+
+*   **30-Dec-2024 (Tuesday):** Implemented Snake and Ladder game. Started **OOPs (Classes & Objects)** with systems like BankAccount, Book, MobilePhone, and MovieTicket.
+    *   [Browse OOPs practice programs](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/classes-and-obejct)
+
+*   **31-Dec-2024 (Wednesday):** Studied **Constructors**, Access Modifiers, and Static members. Implemented systems demonstrating encapsulation and access control (Library, HotelBooking).
+    *   [Browse OOPs practice programs](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructors-variables-access)
+
+*   **01-Jan-2025 (Thursday):** Learned `static`, `this`, `final` keywords and `instanceof`. Applied concepts in University and Company systems. Solved SentenceFormatter scenario.
+    *   [Browse Static, This, Final programs](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/static-this-final-instanceof)
+
+*   **02-Jan-2025 (Friday):** Practiced **Object-Oriented Design (OOD)** and modeling. Solved Temperature Analyzer and Student Score Analyzer scenarios.
+    *   [Browse Object-Oriented Design materials](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/object-oriented-design)
+
+*   **03-Jan-2025 (Saturday):** Mastered **Inheritance & Polymorphism**. Built hierarchies for Animals, Vehicles, and Employees. Solved LibrarySystem, EduQuiz, and BankAccountManager scenarios.
+    *   [Browse Inheritance programs](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance-polymorphism)
+
+---
+
+## Week 4: Encapsulation, Polymorphism & Data Structures
+**Interfaces, Abstraction & Introduction to DSA**
+
+*   **05-Jan-2025 (Monday):** Deep dive into **Encapsulation & Polymorphism** using Interfaces and Abstract Classes. Implemented RideBooking, FoodOrdering, and HospitalManagement systems.
+    *   [Browse Encapsulation programs](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/encapsulation-polymorphism)
+
+*   **06-Jan-2025 (Tuesday):** Solved **OOPs LeetCode** problems (TwoSum, ValidParentheses). Worked on PhoneBook, Quiz, and Library scenarios.
+    *   [Browse LeetCode solutions](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/leetcode-codebase)
+
+*   **07-Jan-2025 (Wednesday):** Developed **Cab Booking System** and **Bank Service** using advanced OOPs concepts and exception handling.
+    *   [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
+*   **08-Jan-2025 (Thursday):** Started **DSA Practice**. Implemented Linked Lists (Singly, Doubly, Circular) for systems like StudentList, MovieList, TaskScheduler, and TicketSystem.
+    *   [Browse DSA Practice](https://github.com/skyy4/BridgeLabz-Training/tree/dsa-practice/gcr-codebase)
+
+*   **09-Jan-2025 (Friday):** Solved **Scenario-Based Problems**: Hospital Management, Vehicle Rental, and Flight Booking systems.
+    *   [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
+---
+
+## Week 5: Advanced OOPs Scenarios, Exception Handling & DSA
+**Refactoring, Customized Exceptions & Sorting**
+
+*   **12-Jan-2025 (Monday):** Refactored 7 complex scenario-based systems with **Exception Handling** (Payment, Course Registration, Inventory, etc.). Solved DSA scenarios (Traffic Manager, Smart Shelf).
+    *   [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+    *   [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based)
+
+*   **13-Jan-2025 (Tuesday):** Practice **Stacks, Queues & HashMaps**. Solved StockSpan, SlidingWindowMax, Custom HashMap, TwoSum, etc.
+    *   [Browse Stack & Queue Practice](https://github.com/skyy4/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/Stack%20%26%20Queue)
+    *   [Browse HashMap Practice](https://github.com/skyy4/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/Hashmap)
+
+*   **16-Jan-2025 (Friday):** Implemented **Sorting Algorithms**: Bubble, Insertion, Merge, Quick, Selection, Heap, and Counting Sort.
+    *   [Browse Sorting Algorithms](https://github.com/skyy4/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/SortingAlgorithm)
+
+*   **17-Jan-2025 (Saturday):** Implemented **String Manipulation**, **File I/O**, and **Search Algorithms** (Linear & Binary). Solved problems including Reverse String, Word Count, Binary Search, and 2D Search. Implemented three complex **Scenario-Based** applications:
+    *   **TrafficManager** (Queue & Circular Linked List)
+    *   **BookShelf** (HashMap & HashSet)
+    *   **BrowserBuddy** (Stack & Doubly Linked List)
+    *   [Browse String & Search programs](https://github.com/skyy4/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/StringAndLinearBinarySearch)
+    *   [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based)
+
+---
+
+## Week 6: Runtime Analysis & Advanced Scenarios
+**Big O Notation, Banking & Employee Systems**
+
+*   **19-Jan-2026 (Monday):**
+    *   **DSA:** Created `RuntimeAnalysisAndBigONotation` directory. Implemented **Runtime Analysis** and **Big O Notation** examples (Sorting, Searching, String Ops).
+        *   [Browse Algo Analysis](https://github.com/skyy4/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/RuntimeAnalysisAndBigONotation)
+    *   **DSA Scenarios:** Implemented **ExamProctor** (Stack & HashMap) and **ParcelTracker** (Linked List) for tracking systems.
+        *   [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based)
+    *   **OOPS Scenarios:** Implemented **AddressBook**, **BankAccountSystem** (Interfaces), and **EmployeeSystem** (Polymorphism).
+        *   [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
+*   **20-Jan-2026 (Tuesday):**
+    *   **DSA Scenarios:** Solved **CinemaTime** (Exception Handling & Time Validation).
+        *   [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based)
+    *   **Collections:** Created `collection-practice` branch. Implemented **Java Generics** problems including `WarehouseTest` (Generic Storage), `MarketplaceTest` (Bounded Type Parameters), `CourseTest` (Wildcards), `MealTest` (Interfaces with Generics), and `ResumeTest` (Screening Pipeline).
+        *   [Browse Collection Practice](https://github.com/skyy4/BridgeLabz-Training/tree/collection-practice/collection-practice/gcr-codebase/JavaGenerics)
+
+*   **21-Jan-2026 (Wednesday):**
+    *   **Collections:** Renamed branch and folder to `collections-practice`. Implemented various **Collection Framework** problems in `collections` directory:
+        *   **List & Set:** `ReverseList`, `RotateList`, `NthFromEnd`, `SetOperations`, `RemoveDuplicates`.
+        *   **Map:** `Frequency`, `GroupDept`, `InvertMap`, `MergeMap`, `WordFreq`.
+        *   **Stack/Queue:** `ReverseQueue`, `StackQ`, `CircularBuffer`, `Triage`.
+        *   **Systems:** `InsurancePolicyManagement` (Policy Manager & Performance Test),`BankingSystem`,`ShoppingCart`,`VotingSystem`.
+        *   [Browse Collections Practice](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/collections)
+    *   **DSA Scenarios:** Implemented **EduResults** (Merge Sort) and **SmartCheckout** (Queue System) for scenario-based problems.
+        *   [Browse DSA Scenarios](https://github.com/skyy4/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based)
+
+---
+
+## Week 7: Java Streams
+**Java Stream API, File Handling & Exception Handling**
+
+*   **26-Jan-2026 (Monday):**
+    *   **Collections:** Created `JavaStreams` directory in `collections-practice`. Implemented various Stream API examples (File Copy, Serialization, Pipe, etc.) in `gcr-codebase/JavaStreams`.
+        *   [Browse Java Streams](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/JavaStreams)
+
+*   **27-Jan-2026 (Tuesday):**
+    *   **Exception Handling:** Created `ExceptionHandling` directory in `collections-practice`. Implemented various exception handling examples including `try-catch`, `finally`, `throw`, `throws`, Custom Exceptions (`InvalidAgeException`, `InsufficientBalanceException`), and Nested Try-Catch.
+        *   [Browse Exception Handling](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/ExceptionHandling)
+
+*   **28-Jan-2026 (Wednesday):**
+    *   **Core Java Scenarios:** Implemented `LexicalTwist` (String Vowels/Consonants Logic) and `CleanseAndInvert` (String Manipulation) in `scenario-based` folder.
+        *   [Browse Core Java Scenarios](https://github.com/skyy4/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+    *   **Collections Scenarios:** Implemented `Restaurant` (HashMap & Exception Handling) and `BackupScheduler` (Priority Queue) in `scenario-based` folder.
+        *   [Browse Collection Scenarios](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based)
+
+
+*   **30-Jan-2026 (Friday):**
+    *   **Regex:** Created `Regex` directory in `collections-practice`. Implemented `RegexPractice` covering username validation, email extraction, censoring, and other regex patterns.
+        *   [Browse Regex Practice](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/Regex)
+    *   **JUnit:** Created `JUnit` directory in `collections-practice` with Maven structure. Implemented and tested various classes: `Calculator`, `StringUtils`, `ListManager`, `DatabaseConnection`, `FileProcessor`, `EvenTest`, and `ExceptionTest`.
+        *   [Browse JUnit Practice](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/JUnit)
+
+*   **01-Feb-2026 (Sunday):**
+    *   **OOPS Scenarios:** Implemented **FutureLogistics** scenario-based problem involving `GoodsTransport`, `BrickTransport`, and `TimberTransport` with logic for vehicle selection and charge calculation.
+        *   [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
+## Week 8: Advanced Collections & Scenarios
+**Custom Scenarios & Performance Tracking**
+
+*   **02-Feb-2026 (Monday):**
+    *   **Collections Scenarios:** Implemented **StreamBuzz** scenario-based problem (Creator Stats).
+        *   [Browse StreamBuzz](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/StreamBuzz)
+    *   **Reflection:** Implemented 12 Reflection API examples in `collections-practice` covering methods, fields, dynamic proxy, and dependency injection.
+        *   [Browse Reflection Examples](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/Reflection)
+    *   **Annotations:** Implemented 12 Annotation examples including `@Override`, `@Deprecated`, `@SuppressWarnings`, and custom annotations like `@Loggable` and `@Priority`.
+        *   [Browse Annotation Examples](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/Annotations)
+    *   **IO Programming:** Created `IOprogramming-practice` branch. Implemented **CSV Data Handling** (12 examples) and **JSON Data Handling** (9 examples) involving reading, writing, filtering, and masking data.
+        *   [Browse CSV Examples](https://github.com/skyy4/BridgeLabz-Training/tree/IOprogramming-practice/IOprogramming-practice/gcr-codebase/CSVdatahandling)
+        *   [Browse JSON Examples](https://github.com/skyy4/BridgeLabz-Training/tree/IOprogramming-practice/IOprogramming-practice/gcr-codebase/JSONdata)
+
+*   **03-Feb-2026 (Tuesday):**
+    *   **DSA Scenarios:** Implemented **RobotAuditSystem** (Custom Exceptions) and **FlightManagementSystem** (Exception Handling) in `scenario-based` folder.
+        *   [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based)
+    *   **Java 8 Features:** Created `java8-feature-pratice` branch. Implemented 10 **Stream API** examples including `TopMovies`, `DoctorAvailability`, `InsuranceClaims`, etc. in `gcr-codebase/StreamAPI`.
+    *   [Browse Stream API](https://github.com/skyy4/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/StreamAPI)
+
+*   **04-Feb-2026 (Wednesday):**
+    *   **Java 8 Features:** Implemented **Lambda Expressions** examples including `SmartLight`, `ShopSort`, `AlertFilter`, etc. in `LambdaExpressions` directory. Also implemented 13 **Functional Interface** examples covering custom interfaces, static/default methods, and marker interfaces in `FunctionalInterface` directory.
+        *   [Browse Lambda Expressions](https://github.com/skyy4/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/LambdaExpressions)
+        *   [Browse Functional Interfaces](https://github.com/skyy4/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/FunctionalInterface)
+
+*   **05-Feb-2026 (Thursday):**
+    *   **Java 8 Features:** Implemented **Collectors** examples including `StudentGroup` (Grouping & Mapping), `WordFreq` (Counting), `OrderSum` (Summing), `AvgSalary` (Averaging), and `BookStats` (Summarizing) in `gcr-codebase/Collectors`.
+        *   [Browse Collectors](https://github.com/skyy4/BridgeLabz-Training/tree/java8-features-practice/java8-features-practice/gcr-codebase/Collectors)
+    *   **Collections Scenarios:** Implemented **FoodDeliverySystem** (Queue), **ClassroomAttendance** (Set), **LeaveManagement** (Map), and **MusicPlaylist** (LinkedList & Stack) in `scenario-based` folder.
+        *   [Browse Collections Scenarios](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based)
+
+
+*   **07-Feb-2026 (Saturday):**
+    *   **Collections Scenarios:** Implemented **VesselNavigation** scenario-based problem involving `Vessel`, `VesselUtil`, and `UserInterface` for tracking vessel performance.
+        *   [Browse Vessel Navigation](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/VesselNavigation)
+
+*   **08-Feb-2026 (Sunday):**
+    *   **Solution Designing:** Implemented **LibraryManagementSystem** involving `LibraryCatalog`, `UserFactory`, and Observer pattern for managing books and users.
+        *   [Browse Library Management System](https://github.com/skyy4/BridgeLabz-Training/tree/solution-designing-practice/solution-designing-practice/gcr-codebase/LibraryManagementSystem)
+    *   **Multithreading:** Implemented various concurrent systems including:
+        *   **BankSystem:** Concurrent transaction handling.
+        *   **Restaurant:** Producer-Consumer problem implementation.
+        *   **DownloadManager:** Multi-threaded file downloading.
+        *   **PrintShop:** Job scheduling simulation.
+        *   **ThreadStateMonitor:** Thread lifecycle monitoring.
+        *   [Browse Multithreading Practice](https://github.com/skyy4/BridgeLabz-Training/tree/multithreading-practice/multithreading-practice/gcr-codebase)
+    *   **Collections Scenarios:** Implemented **AuctionSystem** (Custom Exceptions) and **EnergyMonitoringSystem** (Monitoring & Alerts) in `scenario-based` folder.
+        *   [Browse Auction System](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/AuctionSystem)
+        *   [Browse Energy Monitoring System](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/EnergyMonitoringSystem)
+    *   **Code Quality:** Applied SonarQube analysis and improvements to **AddressBook** (OOPs Practice).
+        *   [Browse AddressBook](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/AddressBook)
+
+## Week 9: JDBC, DBMS & Advanced Collections
+**Database Connectivity & Real-world Scenarios**
+
+*   **09-Feb-2026 (Monday):**
+    *   **JDBC & DBMS:** Created `jdbc-dbms-practice` branch. Refactored `HealthClinicApp` project structure. Implemented "View All Patients" feature.
+        *   [Browse HealthClinicApp](https://github.com/skyy4/BridgeLabz-Training/tree/jdbc%26dbms-practice/jdbc-dbms-practice/gcr-codebase/HealthClinicApp)
+    *   **Collections Scenarios:** Implemented `JobPortal` (Custom Exceptions), `EventAnalyzer` (Streams & Maps), and `BankAccount` (JUnit Testing) in `scenario-based` folder.
+        *   [Browse JobPortal](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/JobPortal)
+        *   [Browse EventAnalyzer](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/EventAnalyzer)
+        *   [Browse BankAccount](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/BankAccountTesting)
+
+
+## Week 10: Advanced Scenarios & System Design
+**Employee Wage & Address Book Enhancements**
+
+*   **16-Feb-2026 (Sunday):**
+    *   **Scenario-Based:** Worked on **Employee Wage** computation problem involving procedural and object-oriented approaches.
+
+*   **17-Feb-2026 (Monday):**
+    *   **Address Book System:** Implemented advanced features (UC11-UC18) for the **AddressBook** system in `oops-practice/scenario-based`:
+        *   **Sorting:** Added functionality to sort contacts by City, State, and Zip code.
+        *   **File IO:** Implemented manual Read/Write operations for **Text (.txt)**, **CSV (.csv)**, and **JSON (.json)** files without external libraries.
+        *   **JSON Server:** Integrated with a local JSON Server using Java's `HttpClient` for RESTful operations (GET/POST).
+        *   **Database:** Implemented JDBC connectivity to MySQL for persistent storage of contact details.
+        *   **Multi-threading:** Refactored all IO operations to execute in separate threads for non-blocking UI.
+        *   [Browse Address Book](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/AddressBook)
+
+---
+
+## Repository Info
+**GitHub:** [https://github.com/skyy4/BridgeLabs-Training](https://github.com/skyy4/BridgeLabs-Training)
+
+### How to Run
+1.  **Clone:** `git clone https://github.com/skyy4/BridgeLabs-Training.git`
+2.  **Navigate:** Go to the specific directory (e.g., `core-java-practice/gcr-codebase/control-flow`).
+
+---
+
+
+
