@@ -1,0 +1,37 @@
+package practice1;
+
+import java.util.*;
+
+public class UserInterface {
+   public static void main(String[] args) {
+
+		
+		Scanner sc = new Scanner(System.in);
+		 int  n = sc.nextInt();
+		 
+		 
+		 for(int i = 0 ; i<n ; i++) {
+			 String input = sc.nextLine();
+			 String [] parts = input.split(":");
+			 
+			 Vessel v = new Vessel(
+					 parts[0],
+					 parts[1],
+					 Double.parseDouble(parts[2]),
+					 parts[3]
+				 
+					 );
+						 
+		 }
+		   
+		
+		
+		
+		
+		
+		
+		
+		
+}
+
+}
