@@ -1,6 +1,3 @@
-
-
-
 # BridgeLabz-Training
 
 This log documents the daily progress of tasks completed during the BridgeLabz training program, identifying work done on each date with thematic headings and detailed summaries.
@@ -69,6 +66,8 @@ BridgeLabz-Training/
 |   |   +-- StringAndLinearBinarySearch/
 |   |   |
 |   |   +-- RuntimeAnalysisAndBigONotation/
+|   |
+|   +-- leet-code-codebase/
 |   |
 |   +-- scenario-based/
 |
@@ -386,5 +385,6 @@ BridgeLabz-Training/
 2.  **Navigate:** Go to the specific directory (e.g., `core-java-practice/gcr-codebase/control-flow`).
 
 ---
+
 
 
