@@ -1,3 +1,7 @@
+
+
+
+
 # BridgeLabz-Training
 
 This log documents the daily progress of tasks completed during the BridgeLabz training program, identifying work done on each date with thematic headings and detailed summaries.
