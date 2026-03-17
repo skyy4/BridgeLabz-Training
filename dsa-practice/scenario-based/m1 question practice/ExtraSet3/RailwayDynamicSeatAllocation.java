@@ -90,12 +90,10 @@ public class RailwayDynamicSeatAllocation {
     }
 
     static void summary() {
-        boolean hasRevenue = false;
         for (Train t : trains) {
             double total = 0;
             for (Booking b : t.bookings) total += b.bookingFare;
             System.out.println(t.trainId + " " + (long) total);
-            if (total > 0) hasRevenue = true;
         }
     }
 

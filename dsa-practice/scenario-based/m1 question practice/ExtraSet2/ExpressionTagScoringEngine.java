@@ -5,14 +5,6 @@ public class ExpressionTagScoringEngine {
 
     static String evaluate(String input) {
         // Match all [OPERATION:EXPRESSION] patterns including broken ones
-        Pattern allTags = Pattern.compile("\\[[^\\[\\]]*\\]|\\[[^\\[\\]]*$");
-        // Valid tag pattern
-        Pattern validTag = Pattern.compile("\\[(SUM|MUL|MAX|MIN):(-?(?:0|[1-9]\\d*))(?:,(-?(?:0|[1-9]\\d*)))+\\]");
-        // Number pattern (no leading zeros except 0)
-        Pattern numPattern = Pattern.compile("-?(?:0|[1-9]\\d*)");
-
-        Pattern tagPattern = Pattern.compile("\\[[^\\]]*\\]?");
-
         StringBuffer sb = new StringBuffer();
         Pattern findTags = Pattern.compile("\\[([^\\[\\]]*)\\]|(\\[[^\\]]*$)");
         Matcher m = findTags.matcher(input);
