@@ -1,6 +1,7 @@
 
 
 
+
 # BridgeLabz-Training
 
 This log documents the daily progress of tasks completed during the BridgeLabz training program, identifying work done on each date with thematic headings and detailed summaries.
@@ -69,6 +70,8 @@ BridgeLabz-Training/
 |   |   +-- StringAndLinearBinarySearch/
 |   |   |
 |   |   +-- RuntimeAnalysisAndBigONotation/
+|   |
+|   +-- leet-code-codebase/
 |   |
 |   +-- scenario-based/
 |
@@ -360,16 +363,6 @@ BridgeLabz-Training/
         *   [Browse EventAnalyzer](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/EventAnalyzer)
         *   [Browse BankAccount](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/BankAccountTesting)
 
----
-
-## Repository Info
-**GitHub:** [https://github.com/skyy4/BridgeLabs-Training](https://github.com/skyy4/BridgeLabs-Training)
-
-### How to Run
-1.  **Clone:** `git clone https://github.com/skyy4/BridgeLabs-Training.git`
-2.  **Navigate:** Go to the specific directory (e.g., `core-java-practice/gcr-codebase/control-flow`).
-
----
 
 ## Week 10: Advanced Scenarios & System Design
 **Employee Wage & Address Book Enhancements**
@@ -385,6 +378,50 @@ BridgeLabz-Training/
         *   **Database:** Implemented JDBC connectivity to MySQL for persistent storage of contact details.
         *   **Multi-threading:** Refactored all IO operations to execute in separate threads for non-blocking UI.
         *   [Browse Address Book](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/AddressBook)
+
+---
+
+## Week 11: M1 Question Practice — Scenario-Based Problem Solving
+**Validation, OOP Design, Regex & Data Structure Scenarios**
+
+*   **17-Mar-2026 (Monday):**
+    *   **DSA Scenario-Based:** Created `m1 question practice` folder inside `dsa-practice/scenario-based/`. Solved 16 scenario-based questions across 8 sets (Set1–Set4 + ExtraSet1–ExtraSet4):
+        *   **Set 1:**
+            *   `GlobalShipmentValidator` — Validates shipment records (code, date, mode, weight, status) using custom rules.
+            *   `VersionControlledStorage` — File versioning system with UPLOAD / FETCH / LATEST / TOTAL_STORAGE operations.
+        *   **Set 2:**
+            *   `KeyGeneration` — String validation + ASCII-based key transformation (lowercase → remove even-ASCII → reverse → uppercase even-index).
+            *   `QuizPerformanceRanking` — Quiz ranking system with department-wise and quiz-wise top scorer queries.
+        *   **Set 3:**
+            *   `CorporateEmailAccessControl` — Regex-based email format validation with department and domain rules.
+            *   `FestivalManagementSystem` — OOP festival management supporting MUSIC, FOOD, and ART festival types.
+        *   **Set 4:**
+            *   `DynamicTemplateProcessor` — Template placeholder processor supporting DATE, UPPER, LOWER, and REPEAT tags.
+            *   `SupermarketInventory` — OOP inventory system for Electronics and Clothing products with total value calculation.
+        *   **ExtraSet 1:**
+            *   `DocumentRedactionEngine` — Regex-based document redaction: masks National IDs and bank accounts, removes repeated words, trims trailing symbols.
+            *   `CreditCardManagement` — Credit card system with ISSUE, SPEND, PAYMENT, and HOLDER commands.
+        *   **ExtraSet 2:**
+            *   `ExpressionTagScoringEngine` — Evaluates `[SUM/MUL/MAX/MIN:expr]` tags using regex with validation for leading zeros and malformed tags.
+            *   `CollegeProjectCompetition` — Competition manager with REGISTER, REVISE, FILTERDOMAIN, and QUALIFY commands.
+        *   **ExtraSet 3:**
+            *   `URLValidationSystem` — URL validator checking protocol, website name, domain, and duplicate tracking.
+            *   `RailwayDynamicSeatAllocation` — Railway booking system with dynamic fare, CANCEL, ROUTE, and SUMMARY.
+        *   **ExtraSet 4:**
+            *   `HybridNetworkIdentifiers` — Validates IPv6::MAC hybrid network identifiers with strict group/character rules.
+            *   `MultiTypeBankAccountManagement` — Multi-type bank OOP system (Savings/Current/Business) with overdraft rules and transaction charges.
+        *   [Browse M1 Question Practice](https://github.com/skyy4/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/m1%20question%20practice)
+
+---
+
+## Repository Info
+**GitHub:** [https://github.com/skyy4/BridgeLabs-Training](https://github.com/skyy4/BridgeLabs-Training)
+
+### How to Run
+1.  **Clone:** `git clone https://github.com/skyy4/BridgeLabs-Training.git`
+2.  **Navigate:** Go to the specific directory (e.g., `core-java-practice/gcr-codebase/control-flow`).
+
+---
 
 
 
