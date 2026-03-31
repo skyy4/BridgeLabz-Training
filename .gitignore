@@ -1,6 +1,21 @@
+
 # Ignore Java compiled files
 *.class
 
 # Ignore OS files
 .DS_Store
-/.metadata/
+
+# Ignore Build Artifacts
+bin/
+target/
+*.jar
+
+# Ignore IDE files
+.settings/
+.classpath
+.project
+.vscode/
+.metadata/
+
+# Ignore M1prep (if temporary)
+M1prep/
