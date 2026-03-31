@@ -1,4 +1,7 @@
 
+
+
+
 # BridgeLabz-Training
 
 This log documents the daily progress of tasks completed during the BridgeLabz training program, identifying work done on each date with thematic headings and detailed summaries.
@@ -7,7 +10,7 @@ This log documents the daily progress of tasks completed during the BridgeLabz t
 
 The repository is organized in a modular way.  
 
-Currently, all foundational Core Java work resides in the **core-java-practice** directory, OOPs practice work resides in the **oops-practice** directory, DSA practice work resides in the **dsa-practice** directory, collections practice work resides in the **collections-practice** directory, IO programming work resides in the **IOprogramming-practice** directory, Java 8 Features work resides in the **java8-features-practice** directory, and review work resides in the **review** directory.
+Currently, all foundational Core Java work resides in the **core-java-practice** directory, OOPs practice work resides in the **oops-practice** directory, DSA practice work resides in the **dsa-practice** directory, collections practice work resides in the **collections-practice** directory, IO programming work resides in the **IOprogramming-practice** directory, Java 8 Features work resides in the **java8-features-practice** directory, solution designing work resides in the **solution-designing-practice** directory, multithreading practice work resides in the **multithreading-practice** directory, and review work resides in the **review** directory.
 
 ```
 BridgeLabz-Training/
@@ -68,6 +71,8 @@ BridgeLabz-Training/
 |   |   |
 |   |   +-- RuntimeAnalysisAndBigONotation/
 |   |
+|   +-- leet-code-codebase/
+|   |
 |   +-- scenario-based/
 |
 |
@@ -112,6 +117,22 @@ BridgeLabz-Training/
 |   |   +-- Collectors/
 |   |
 |   +-- scenario-based/
+|
+-+-- solution-designing-practice/(Branch & Folder Name)
+|   |
+|   +-- gcr-codebase/
+|   |   |
+|   |   +-- LibraryManagementSystem/
+|
+-+-- multithreading-practice/(Branch & Folder Name)
+|   |
+|   +-- gcr-codebase/
+|
+-+-- jdbc-dbms-practice/(Branch & Folder Name)
+|   |
+|   +-- gcr-codebase/
+|   |   |
+|   |   +-- HealthClinicApp/
 |
 -+-- review (Branch & Folder Name)
 |   |
@@ -279,6 +300,9 @@ BridgeLabz-Training/
     *   **OOPS Scenarios:** Implemented **FutureLogistics** scenario-based problem involving `GoodsTransport`, `BrickTransport`, and `TimberTransport` with logic for vehicle selection and charge calculation.
         *   [Browse Scenario-Based solutions](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
 
+## Week 8: Advanced Collections & Scenarios
+**Custom Scenarios & Performance Tracking**
+
 *   **02-Feb-2026 (Monday):**
     *   **Collections Scenarios:** Implemented **StreamBuzz** scenario-based problem (Creator Stats).
         *   [Browse StreamBuzz](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/StreamBuzz)
@@ -307,6 +331,87 @@ BridgeLabz-Training/
     *   **Collections Scenarios:** Implemented **FoodDeliverySystem** (Queue), **ClassroomAttendance** (Set), **LeaveManagement** (Map), and **MusicPlaylist** (LinkedList & Stack) in `scenario-based` folder.
         *   [Browse Collections Scenarios](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based)
 
+
+*   **07-Feb-2026 (Saturday):**
+    *   **Collections Scenarios:** Implemented **VesselNavigation** scenario-based problem involving `Vessel`, `VesselUtil`, and `UserInterface` for tracking vessel performance.
+        *   [Browse Vessel Navigation](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/VesselNavigation)
+
+*   **08-Feb-2026 (Sunday):**
+    *   **Solution Designing:** Implemented **LibraryManagementSystem** involving `LibraryCatalog`, `UserFactory`, and Observer pattern for managing books and users.
+        *   [Browse Library Management System](https://github.com/skyy4/BridgeLabz-Training/tree/solution-designing-practice/solution-designing-practice/gcr-codebase/LibraryManagementSystem)
+    *   **Multithreading:** Implemented various concurrent systems including:
+        *   **BankSystem:** Concurrent transaction handling.
+        *   **Restaurant:** Producer-Consumer problem implementation.
+        *   **DownloadManager:** Multi-threaded file downloading.
+        *   **PrintShop:** Job scheduling simulation.
+        *   **ThreadStateMonitor:** Thread lifecycle monitoring.
+        *   [Browse Multithreading Practice](https://github.com/skyy4/BridgeLabz-Training/tree/multithreading-practice/multithreading-practice/gcr-codebase)
+    *   **Collections Scenarios:** Implemented **AuctionSystem** (Custom Exceptions) and **EnergyMonitoringSystem** (Monitoring & Alerts) in `scenario-based` folder.
+        *   [Browse Auction System](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/AuctionSystem)
+        *   [Browse Energy Monitoring System](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/EnergyMonitoringSystem)
+    *   **Code Quality:** Applied SonarQube analysis and improvements to **AddressBook** (OOPs Practice).
+        *   [Browse AddressBook](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/AddressBook)
+
+## Week 9: JDBC, DBMS & Advanced Collections
+**Database Connectivity & Real-world Scenarios**
+
+*   **09-Feb-2026 (Monday):**
+    *   **JDBC & DBMS:** Created `jdbc-dbms-practice` branch. Refactored `HealthClinicApp` project structure. Implemented "View All Patients" feature.
+        *   [Browse HealthClinicApp](https://github.com/skyy4/BridgeLabz-Training/tree/jdbc%26dbms-practice/jdbc-dbms-practice/gcr-codebase/HealthClinicApp)
+    *   **Collections Scenarios:** Implemented `JobPortal` (Custom Exceptions), `EventAnalyzer` (Streams & Maps), and `BankAccount` (JUnit Testing) in `scenario-based` folder.
+        *   [Browse JobPortal](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/JobPortal)
+        *   [Browse EventAnalyzer](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/EventAnalyzer)
+        *   [Browse BankAccount](https://github.com/skyy4/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/BankAccountTesting)
+
+
+## Week 10: Advanced Scenarios & System Design
+**Employee Wage & Address Book Enhancements**
+
+*   **16-Feb-2026 (Sunday):**
+    *   **Scenario-Based:** Worked on **Employee Wage** computation problem involving procedural and object-oriented approaches.
+
+*   **17-Feb-2026 (Monday):**
+    *   **Address Book System:** Implemented advanced features (UC11-UC18) for the **AddressBook** system in `oops-practice/scenario-based`:
+        *   **Sorting:** Added functionality to sort contacts by City, State, and Zip code.
+        *   **File IO:** Implemented manual Read/Write operations for **Text (.txt)**, **CSV (.csv)**, and **JSON (.json)** files without external libraries.
+        *   **JSON Server:** Integrated with a local JSON Server using Java's `HttpClient` for RESTful operations (GET/POST).
+        *   **Database:** Implemented JDBC connectivity to MySQL for persistent storage of contact details.
+        *   **Multi-threading:** Refactored all IO operations to execute in separate threads for non-blocking UI.
+        *   [Browse Address Book](https://github.com/skyy4/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/AddressBook)
+
+---
+
+## Week 11: M1 Question Practice — Scenario-Based Problem Solving
+**Validation, OOP Design, Regex & Data Structure Scenarios**
+
+*   **17-Mar-2026 (Monday):**
+    *   **DSA Scenario-Based:** Created `m1 question practice` folder inside `dsa-practice/scenario-based/`. Solved 16 scenario-based questions across 8 sets (Set1–Set4 + ExtraSet1–ExtraSet4):
+        *   **Set 1:**
+            *   `GlobalShipmentValidator` — Validates shipment records (code, date, mode, weight, status) using custom rules.
+            *   `VersionControlledStorage` — File versioning system with UPLOAD / FETCH / LATEST / TOTAL_STORAGE operations.
+        *   **Set 2:**
+            *   `KeyGeneration` — String validation + ASCII-based key transformation (lowercase → remove even-ASCII → reverse → uppercase even-index).
+            *   `QuizPerformanceRanking` — Quiz ranking system with department-wise and quiz-wise top scorer queries.
+        *   **Set 3:**
+            *   `CorporateEmailAccessControl` — Regex-based email format validation with department and domain rules.
+            *   `FestivalManagementSystem` — OOP festival management supporting MUSIC, FOOD, and ART festival types.
+        *   **Set 4:**
+            *   `DynamicTemplateProcessor` — Template placeholder processor supporting DATE, UPPER, LOWER, and REPEAT tags.
+            *   `SupermarketInventory` — OOP inventory system for Electronics and Clothing products with total value calculation.
+        *   **ExtraSet 1:**
+            *   `DocumentRedactionEngine` — Regex-based document redaction: masks National IDs and bank accounts, removes repeated words, trims trailing symbols.
+            *   `CreditCardManagement` — Credit card system with ISSUE, SPEND, PAYMENT, and HOLDER commands.
+        *   **ExtraSet 2:**
+            *   `ExpressionTagScoringEngine` — Evaluates `[SUM/MUL/MAX/MIN:expr]` tags using regex with validation for leading zeros and malformed tags.
+            *   `CollegeProjectCompetition` — Competition manager with REGISTER, REVISE, FILTERDOMAIN, and QUALIFY commands.
+        *   **ExtraSet 3:**
+            *   `URLValidationSystem` — URL validator checking protocol, website name, domain, and duplicate tracking.
+            *   `RailwayDynamicSeatAllocation` — Railway booking system with dynamic fare, CANCEL, ROUTE, and SUMMARY.
+        *   **ExtraSet 4:**
+            *   `HybridNetworkIdentifiers` — Validates IPv6::MAC hybrid network identifiers with strict group/character rules.
+            *   `MultiTypeBankAccountManagement` — Multi-type bank OOP system (Savings/Current/Business) with overdraft rules and transaction charges.
+        *   [Browse M1 Question Practice](https://github.com/skyy4/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/m1%20question%20practice)
+
 ---
 
 ## Repository Info
@@ -315,6 +420,8 @@ BridgeLabz-Training/
 ### How to Run
 1.  **Clone:** `git clone https://github.com/skyy4/BridgeLabs-Training.git`
 2.  **Navigate:** Go to the specific directory (e.g., `core-java-practice/gcr-codebase/control-flow`).
-3.  **Compile & Run:** `javac Filename.java && java Filename`
+
+---
+
 
 
